@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Muhammad%20Hamza&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Backend%20%C2%B7%20AI%20%7C%20BSCS%20Student%20%40%20COMSATS&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4CA1AF&height=220&section=header&text=Muhammad%20Hamza&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20App%20Dev%20%C2%B7%20Cybersecurity%20%7C%20BSCS%20Student%20%40%20COMSATS&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+Intern+%40+DecodeLabs;Aspiring+AI+App+Developer;Cisco+%26+Mastercard+Certified;Turning+Ideas+Into+Working+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+Intern+%40+DecodeLabs;Aspiring+AI+App+Developer;Aspiring+Cybersecurity+Analyst;Turning+Ideas+Into+Working+Code" />
 </p>
 
 <p align="center">
   <a href="mailto:hamzaejaz3136@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/hamzaejaz922"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/hamza922"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/ISLAMABAD-30363D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WAH-30363D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PAKISTAN-238636?style=for-the-badge" />
 </p>
 
@@ -24,12 +24,13 @@
 
 - 🎓 **BS Computer Science** @ COMSATS University Islamabad, Wah Campus *(2024 – 2028)*
 - 💼 Full Stack Development Intern @ **DecodeLabs** *(Jul 2026 – Present)*
-- 📱 Former App Development Intern @ **CodeAlpha**
+- 📱 App Development Intern @ **CodeAlpha**
 - 🏆 Certified in **Cybersecurity** (Cisco, Mastercard, Deloitte), **Software Development** (DATACOM), and **GenAI** (BCG X)
 - 🤝 Completed a **Software Engineering job simulation** with **JPMorgan Chase & Co.**
 - 🤖 Aspiring **AI App Developer**, building intelligent, practical applications that solve real-world problems
+- 🔐 Aspiring **Cybersecurity Analyst**, passionate about building secure and resilient systems
 - 🌍 Speaks **Urdu** (native) & **English**
-- 📍 Based in **Islamabad, Pakistan**
+- 📍 Based in **Wah, Pakistan**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -45,23 +46,38 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-**Frameworks, Tools & Platforms**
+**Frameworks & Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA%20SWING-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
-**Core Skills**
+**Databases**
 <p align="left">
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+**CS Concepts & Core Skills**
+<p align="left">
+  <img src="https://img.shields.io/badge/OOP%20%26%20DESIGN%20PATTERNS-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SDLC-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOFTWARE%20REQUIREMENTS-D73A49?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-0969DA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MULTITHREADING-8250DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SCHEDULING-BF3989?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DATA%20STRUCTURES%20%26%20ALGORITHMS-1A7F37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BFS%20%26%20DFS-C4581E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/A*%20%26%20DIJKSTRA-9E6A03?style=for-the-badge" />
   <img src="https://img.shields.io/badge/REST%20APIS-6f42c1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PROJECT%20PLANNING-2f363d?style=for-the-badge" />
   <img src="https://img.shields.io/badge/REQUIREMENTS%20ANALYSIS-D73A49?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP%20%26%20DESIGN%20PATTERNS-1f6feb?style=for-the-badge" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -82,7 +98,9 @@ RESTful backend built with Node.js & Express, handling full CRUD for user manage
 - Correct **HTTP status codes** (200/201/204/400/404/500)
 - Centralized error handling for resilience
 
-`Node.js` `Express` `REST API`
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-6f42c1?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
@@ -97,7 +115,9 @@ A fully responsive landing page built with semantic HTML5 and modern CSS.
 - **Mobile-first design**
 - WCAG-conscious accessibility
 
-`HTML5` `CSS3` `JavaScript`
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 </td>
 </tr>
@@ -107,14 +127,16 @@ A fully responsive landing page built with semantic HTML5 and modern CSS.
 **✈️ Flight Management System**
 *Academic Project*
 
-A Java-based application that manages flight schedules, passenger records, and ticket bookings from end to end.
+A terminal-based airline reservation system for 10+ flight routes and 200+ passenger records, with booking, cancellation, and search functionality.
 
-- Add, update & search **flight schedules** by route/date
-- **Passenger record management** — booking, cancellation & seat tracking
-- **Ticket booking workflow** with confirmation details
-- Structured with **OOP principles** for maintainable, extendable code
+- Applied **OOP principles** — inheritance, polymorphism, encapsulation — across 8+ class hierarchies
+- **File I/O** based persistent record storage
+- Extended version integrates a **MySQL backend** with full CRUD via JDBC
+- Stored procedures & triggers for automated seat availability updates
 
-`Java` `OOP`
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/OOP-6f42c1?style=flat-square" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
@@ -125,10 +147,11 @@ A Java-based application that manages flight schedules, passenger records, and t
 A growing collection of data structures & algorithms implementations in C++.
 
 - Core data structure implementations
-- Algorithm problem-solving practice
+- Graph & search algorithm practice — BFS, DFS, A*, Dijkstra
 - Strengthening CS fundamentals
 
-`C++`
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-1A7F37?style=flat-square" />
 
 </td>
 </tr>
@@ -139,12 +162,12 @@ A growing collection of data structures & algorithms implementations in C++.
 ### 💼 Experience
 
 ◆ **Full Stack Development Intern** · DecodeLabs · *Jul 2026 – Present*
-Islamabad, Pakistan
+Wah, Pakistan
 - Building backend REST APIs following industry-standard architecture & validation practices
 - Working through a structured full-stack training kit — frontend, backend, and integration milestones
 
-◆ **App Development Intern** · CodeAlpha · *Jul 2026 (1 month)*
-Islamabad, Pakistan
+◆ **App Development Intern** · CodeAlpha · *Jul 2026*
+Wah, Pakistan
 - Contributed to mobile/app development tasks during a short-term internship
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -152,6 +175,7 @@ Islamabad, Pakistan
 ### 🎓 Education
 
 - **COMSATS University Islamabad, Wah Campus** — BS Computer Science *(Aug 2024 – Sep 2028)*
+  Relevant Coursework: OOP, Data Structures & Algorithms, Database Systems, Artificial Intelligence, Information Security · Member, Student Startup Business Society (SSBS)
 - **FG Degree College** — Intermediate, Pre-Engineering *(2023 – 2024)*
 - **Sir Syed College Campus 2** — Matriculation, Science *(2021 – 2022)*
 
@@ -196,10 +220,23 @@ Islamabad, Pakistan
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/hamzaejaz922"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/hamza922"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hamzaejaz3136@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+📧 **Email:** [hamzaejaz3136@gmail.com](mailto:hamzaejaz3136@gmail.com)
+🔗 **LinkedIn:** [linkedin.com/in/hamza922](https://linkedin.com/in/hamza922)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 <p align="center">
-  <i>"Consistency, discipline, and hands-on experience — that's how I grow in computer science."</i>
+  <i>Consistency, discipline, and hands-on experience — that's how I build intelligent apps and secure systems.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4CA1AF&height=100&section=footer" />
 </p>
