@@ -93,10 +93,10 @@
 
 RESTful backend built with Node.js & Express, handling full CRUD for user management.
 
-- Full **CRUD** operations (GET/POST/PUT/DELETE)
-- **Validation middleware** — rejects malformed input before it touches the data layer
-- Correct **HTTP status codes** (200/201/204/400/404/500)
-- Centralized error handling for resilience
+🟢 Full **CRUD** operations (GET/POST/PUT/DELETE)
+🟢 **Validation middleware** — rejects malformed input before it touches the data layer
+🟢 Correct **HTTP status codes** (200/201/204/400/404/500)
+🟢 Centralized error handling for resilience
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
@@ -110,10 +110,10 @@ RESTful backend built with Node.js & Express, handling full CRUD for user manage
 
 A fully responsive landing page built with semantic HTML5 and modern CSS.
 
-- **CSS Grid & Flexbox** based responsive layout
-- Vanilla JavaScript — no frameworks
-- **Mobile-first design**
-- WCAG-conscious accessibility
+🔷 **CSS Grid & Flexbox** based responsive layout
+🔷 Vanilla JavaScript — no frameworks
+🔷 **Mobile-first design**
+🔷 WCAG-conscious accessibility
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -129,10 +129,10 @@ A fully responsive landing page built with semantic HTML5 and modern CSS.
 
 A terminal-based airline reservation system for 10+ flight routes and 200+ passenger records, with booking, cancellation, and search functionality.
 
-- Applied **OOP principles** — inheritance, polymorphism, encapsulation — across 8+ class hierarchies
-- **File I/O** based persistent record storage
-- Extended version integrates a **MySQL backend** with full CRUD via JDBC
-- Stored procedures & triggers for automated seat availability updates
+🟠 Applied **OOP principles** — inheritance, polymorphism, encapsulation — across 8+ class hierarchies
+🟠 **File I/O** based persistent record storage
+🟠 Extended version integrates a **MySQL backend** with full CRUD via JDBC
+🟠 Stored procedures & triggers for automated seat availability updates
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/OOP-6f42c1?style=flat-square" />
@@ -146,9 +146,9 @@ A terminal-based airline reservation system for 10+ flight routes and 200+ passe
 
 A growing collection of data structures & algorithms implementations in C++.
 
-- Core data structure implementations
-- Graph & search algorithm practice — BFS, DFS, A*, Dijkstra
-- Strengthening CS fundamentals
+🟩 Core data structure implementations
+🟩 Graph & search algorithm practice — BFS, DFS, A*, Dijkstra
+🟩 Strengthening CS fundamentals
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/DSA-1A7F37?style=flat-square" />
@@ -166,7 +166,7 @@ A growing collection of data structures & algorithms implementations in C++.
 <td width="100%" valign="top">
 
 🟢 **Full Stack Development Intern**
-<img src="https://img.shields.io/badge/DecodeLabs-2C3E50?style=flat-square" /> <img src="https://img.shields.io/badge/Jul%202026%20--%20Present-4CA1AF?style=flat-square" /> <img src="https://img.shields.io/badge/📍%20Wah,%20Pakistan-238636?style=flat-square" />
+<img src="https://img.shields.io/badge/DecodeLabs-2C3E50?style=flat-square" /> <img src="https://img.shields.io/badge/Jul%202026%20--%20Present-D97706?style=flat-square" /> <img src="https://img.shields.io/badge/📍%20Remote-238636?style=flat-square" />
 
 - Building backend REST APIs following industry-standard architecture & validation practices
 - Working through a structured full-stack training kit — frontend, backend, and integration milestones
@@ -177,7 +177,7 @@ A growing collection of data structures & algorithms implementations in C++.
 <td width="100%" valign="top">
 
 🔵 **App Development Intern**
-<img src="https://img.shields.io/badge/CodeAlpha-1f6feb?style=flat-square" /> <img src="https://img.shields.io/badge/Jul%202026-4CA1AF?style=flat-square" /> <img src="https://img.shields.io/badge/📍%20Wah,%20Pakistan-238636?style=flat-square" />
+<img src="https://img.shields.io/badge/CodeAlpha-6A1B9A?style=flat-square" /> <img src="https://img.shields.io/badge/Jul%202026-D97706?style=flat-square" /> <img src="https://img.shields.io/badge/📍%20Remote-238636?style=flat-square" />
 
 - Contributed to mobile/app development tasks during a short-term internship
 
@@ -194,7 +194,7 @@ A growing collection of data structures & algorithms implementations in C++.
 <td width="100%" valign="top">
 
 🟣 **BS Computer Science**
-<img src="https://img.shields.io/badge/COMSATS%20University%20Islamabad,%20Wah%20Campus-6f42c1?style=flat-square" /> <img src="https://img.shields.io/badge/Aug%202024%20--%20Sep%202028-4CA1AF?style=flat-square" />
+<img src="https://img.shields.io/badge/COMSATS%20University%20Islamabad,%20Wah%20Campus-6f42c1?style=flat-square" /> <img src="https://img.shields.io/badge/Aug%202024%20--%20Sep%202028-D97706?style=flat-square" />
 
 - **Coursework:** OOP · Data Structures & Algorithms · Database Systems · Artificial Intelligence · Information Security
 - **Member**, Student Startup Business Society (SSBS)
@@ -205,7 +205,7 @@ A growing collection of data structures & algorithms implementations in C++.
 <td width="100%" valign="top">
 
 🟠 **Intermediate, Pre-Engineering**
-<img src="https://img.shields.io/badge/FG%20Degree%20College-C4581E?style=flat-square" /> <img src="https://img.shields.io/badge/2023%20--%202024-4CA1AF?style=flat-square" />
+<img src="https://img.shields.io/badge/FG%20Degree%20College-C4581E?style=flat-square" /> <img src="https://img.shields.io/badge/2023%20--%202024-D97706?style=flat-square" />
 
 </td>
 </tr>
@@ -213,7 +213,7 @@ A growing collection of data structures & algorithms implementations in C++.
 <td width="100%" valign="top">
 
 🟡 **Matriculation, Science**
-<img src="https://img.shields.io/badge/Sir%20Syed%20College%20Campus%202-9E6A03?style=flat-square" /> <img src="https://img.shields.io/badge/2021%20--%202022-4CA1AF?style=flat-square" />
+<img src="https://img.shields.io/badge/Sir%20Syed%20College%20Campus%202-9E6A03?style=flat-square" /> <img src="https://img.shields.io/badge/2021%20--%202022-D97706?style=flat-square" />
 
 </td>
 </tr>
@@ -261,6 +261,10 @@ A growing collection of data structures & algorithms implementations in C++.
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ### 🔗 Connect With Me
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,linkedin,gmail" />
+</p>
 
 <p align="left">
   <a href="https://github.com/hamzaejaz922"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
