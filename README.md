@@ -16,52 +16,60 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+## 👋 About Me
 
-### 🧑‍💻 About Me
+<table>
+<tr>
+<td width="55%" valign="top">
 
-> Driven by consistency and a hands-on approach to learning — building a strong foundation in AI and App Development, one real project at a time.
+I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Campus**, building backend systems and full-stack applications while developing a strong foundation in **AI and Cybersecurity**.
 
-- 🎓 **BS Computer Science** @ COMSATS University Islamabad, Wah Campus *(2024 – 2028)*
-- 💼 Full Stack Development Intern @ **DecodeLabs** *(Jul 2026 – Present)*
+- 💼 Full Stack Development Intern @ **DecodeLabs**
 - 📱 App Development Intern @ **CodeAlpha**
 - 🏆 Certified in **Cybersecurity** (Cisco, Mastercard, Deloitte), **Software Development** (DATACOM), and **GenAI** (BCG X)
 - 🤝 Completed a **Software Engineering job simulation** with **JPMorgan Chase & Co.**
-- 🤖 Aspiring **AI App Developer**, building intelligent, practical applications that solve real-world problems
-- 🔐 Aspiring **Cybersecurity Analyst**, passionate about building secure and resilient systems
-- 🌍 Speaks **Urdu** (native) & **English**
-- 📍 Based in **Wah, Pakistan**
+- 🤖 Aspiring **AI App Developer**
+- 🔐 Aspiring **Cybersecurity Analyst**
+- 💬 Ask me about **Node.js, Express, REST APIs**, or full-stack development
+- 📍 Based in **Wah Cantt, Pakistan**
+- 📫 Reach me at [hamzaejaz3136@gmail.com](mailto:hamzaejaz3136@gmail.com)
+
+</td>
+<td width="45%" valign="top">
+
+```yaml
+name: Muhammad Hamza
+role: Full Stack Dev Intern @ DecodeLabs
+degree: B.S. Computer Science
+university: COMSATS University Islamabad
+graduating: September 2028
+location: Wah Cantt, Pakistan
+fun_fact: >
+  Aspiring AI App Developer &
+  Cybersecurity Enthusiast ⚡
+```
+
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 **Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
 </p>
 
-**Frameworks & Tools**
+**Frameworks & Backend**
 <p align="left">
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVA%20SWING-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
 </p>
 
-**Databases**
+**Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 **CS Concepts & Core Skills**
@@ -82,102 +90,41 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 🚀 Featured Projects
+## 🟡 Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**📋 Backend User API**
-*DecodeLabs Internship — Project 2*
-
-RESTful backend built with Node.js & Express, handling full CRUD for user management.
-
-🟢 Full **CRUD** operations (GET/POST/PUT/DELETE)
-🟢 **Validation middleware** — rejects malformed input before it touches the data layer
-🟢 Correct **HTTP status codes** (200/201/204/400/404/500)
-🟢 Centralized error handling for resilience
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-6f42c1?style=flat-square" />
-
-</td>
-<td width="50%" valign="top">
-
-**🎨 Craft Studio Website**
-*Personal Project*
-
-A fully responsive landing page built with semantic HTML5 and modern CSS.
-
-🔷 **CSS Grid & Flexbox** based responsive layout
-🔷 Vanilla JavaScript — no frameworks
-🔷 **Mobile-first design**
-🔷 WCAG-conscious accessibility
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**✈️ Flight Management System**
-*Academic Project*
-
-A terminal-based airline reservation system for 10+ flight routes and 200+ passenger records, with booking, cancellation, and search functionality.
-
-🟠 Applied **OOP principles** — inheritance, polymorphism, encapsulation — across 8+ class hierarchies
-🟠 **File I/O** based persistent record storage
-🟠 Extended version integrates a **MySQL backend** with full CRUD via JDBC
-🟠 Stored procedures & triggers for automated seat availability updates
-
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/OOP-6f42c1?style=flat-square" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-
-</td>
-<td width="50%" valign="top">
-
-**🧮 DSA Practice**
-*Learning Repository*
-
-A growing collection of data structures & algorithms implementations in C++.
-
-🟩 Core data structure implementations
-🟩 Graph & search algorithm practice — BFS, DFS, A*, Dijkstra
-🟩 Strengthening CS fundamentals
-
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/DSA-1A7F37?style=flat-square" />
-
-</td>
-</tr>
-</table>
+| Project | Description | Stack |
+|---|---|---|
+| 📋 **Backend User API** | RESTful backend with full CRUD (GET/POST/PUT/DELETE), validation middleware, and proper HTTP status codes — DecodeLabs Internship, Project 2 | `Node.js` · `Express` · `REST API` |
+| 🎨 **Craft Studio Website** | Fully responsive landing page with CSS Grid & Flexbox, vanilla JS, mobile-first design and WCAG-conscious accessibility | `HTML5` · `CSS3` · `JavaScript` |
+| ✈️ **Flight Management System** | Terminal-based airline reservation system for 10+ flight routes & 200+ passenger records, with booking, cancellation & search; extended with a MySQL backend via JDBC | `C++` · `OOP` · `MySQL` |
+| 🧮 **DSA Practice** | Growing collection of data structures & algorithms implementations, including graph & search algorithms (BFS, DFS, A*, Dijkstra) | `C++` · `DSA` |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 💼 Experience
+## 💼 Experience
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="8%" align="center" valign="top">🏢</td>
+<td width="92%">
 
-🟢 **Full Stack Development Intern**
-<img src="https://img.shields.io/badge/DecodeLabs-2C3E50?style=flat-square" /> <img src="https://img.shields.io/badge/Jul%202026%20--%20Present-D97706?style=flat-square" /> <img src="https://img.shields.io/badge/📍%20Remote-238636?style=flat-square" />
+**Full Stack Development Intern** — DecodeLabs
+*Jul 2026 – Present · Remote*
 
 - Building backend REST APIs following industry-standard architecture & validation practices
 - Working through a structured full-stack training kit — frontend, backend, and integration milestones
 
 </td>
 </tr>
-<tr>
-<td width="100%" valign="top">
+</table>
 
-🔵 **App Development Intern**
-<img src="https://img.shields.io/badge/CodeAlpha-6A1B9A?style=flat-square" /> <img src="https://img.shields.io/badge/Jul%202026-D97706?style=flat-square" /> <img src="https://img.shields.io/badge/📍%20Remote-238636?style=flat-square" />
+<table>
+<tr>
+<td width="8%" align="center" valign="top">📱</td>
+<td width="92%">
+
+**App Development Intern** — CodeAlpha
+*Jul 2026 · Remote*
 
 - Contributed to mobile/app development tasks during a short-term internship
 
@@ -187,33 +134,42 @@ A growing collection of data structures & algorithms implementations in C++.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 🎓 Education
+## 🎓 Education
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="8%" align="center" valign="top">🎓</td>
+<td width="92%">
 
-🟣 **BS Computer Science**
-<img src="https://img.shields.io/badge/COMSATS%20University%20Islamabad,%20Wah%20Campus-6f42c1?style=flat-square" /> <img src="https://img.shields.io/badge/Aug%202024%20--%20Sep%202028-D97706?style=flat-square" />
+**BS Computer Science** — COMSATS University Islamabad, Wah Campus
+*Aug 2024 – Sep 2028*
 
-- **Coursework:** OOP · Data Structures & Algorithms · Database Systems · Artificial Intelligence · Information Security
-- **Member**, Student Startup Business Society (SSBS)
-
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top">
-
-🟠 **Intermediate, Pre-Engineering**
-<img src="https://img.shields.io/badge/FG%20Degree%20College-C4581E?style=flat-square" /> <img src="https://img.shields.io/badge/2023%20--%202024-D97706?style=flat-square" />
+- Coursework: OOP · Data Structures & Algorithms · Database Systems · Artificial Intelligence · Information Security
+- Member, Student Startup Business Society (SSBS)
 
 </td>
 </tr>
-<tr>
-<td width="100%" valign="top">
+</table>
 
-🟡 **Matriculation, Science**
-<img src="https://img.shields.io/badge/Sir%20Syed%20College%20Campus%202-9E6A03?style=flat-square" /> <img src="https://img.shields.io/badge/2021%20--%202022-D97706?style=flat-square" />
+<table>
+<tr>
+<td width="8%" align="center" valign="top">🏫</td>
+<td width="92%">
+
+**Intermediate, Pre-Engineering** — FG Degree College
+*2023 – 2024*
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="8%" align="center" valign="top">🏫</td>
+<td width="92%">
+
+**Matriculation, Science** — Sir Syed College Campus 2
+*2021 – 2022*
 
 </td>
 </tr>
@@ -221,7 +177,7 @@ A growing collection of data structures & algorithms implementations in C++.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 🏅 Certifications
+## 🏅 Certifications
 
 <p align="left">
   <img src="https://img.shields.io/badge/DELOITTE-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" />
@@ -241,7 +197,7 @@ A growing collection of data structures & algorithms implementations in C++.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hamzaejaz922&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="165" />
@@ -252,7 +208,7 @@ A growing collection of data structures & algorithms implementations in C++.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaejaz922&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
 </p>
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=hamzaejaz922&theme=darkhub&no-frame=true&row=1&column=6" />
@@ -260,7 +216,7 @@ A growing collection of data structures & algorithms implementations in C++.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 🔗 Connect With Me
+## 🔗 Connect With Me
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github,linkedin,gmail" />
