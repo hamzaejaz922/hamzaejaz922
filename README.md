@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:hamzaejaz3136@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/hamzaejaz922"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/hamza922"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/WAH-30363D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PAKISTAN-238636?style=for-the-badge" />
+  <a href="mailto:hamzaejaz3136@gmail.com"><img src="https://img.shields.io/badge/✉️_Gmail-D93025?style=flat-square&labelColor=1a1a1a" /></a>
+  <a href="https://github.com/hamzaejaz922"><img src="https://img.shields.io/badge/🐙_GitHub-24292F?style=flat-square&labelColor=1a1a1a" /></a>
+  <a href="https://linkedin.com/in/hamza922"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat-square&labelColor=1a1a1a" /></a>
+  <img src="https://img.shields.io/badge/📍_Wah-4CA1AF?style=flat-square&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/🇵🇰_Pakistan-2C3E50?style=flat-square&labelColor=1a1a1a" />
 </p>
 
 <br>
@@ -37,17 +37,27 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 </td>
 <td width="45%" valign="top">
 
+<table>
+<tr><td>
+
+🔴 🟡 🟢 &nbsp; `hamza@wah:~$`
+
 ```yaml
-name: Muhammad Hamza
-role: Full Stack Dev Intern @ DecodeLabs
-degree: B.S. Computer Science
-university: COMSATS University Islamabad
-graduating: September 2028
-location: Wah Cantt, Pakistan
-fun_fact: >
-  Aspiring AI App Developer &
-  Cybersecurity Enthusiast ⚡
+name       : Muhammad Hamza
+role       : Full Stack Dev Intern
+company    : DecodeLabs
+degree     : B.S. Computer Science
+university : COMSATS Islamabad
+graduating : Sep 2028
+location   : Wah Cantt, Pakistan
+
+focus:
+  - AI App Development 🤖
+  - Cybersecurity 🔐
 ```
+
+</td></tr>
+</table>
 
 </td>
 </tr>
@@ -111,8 +121,8 @@ fun_fact: >
 **Full Stack Development Intern** — DecodeLabs
 *Jul 2026 – Present · Remote*
 
-- Building backend REST APIs following industry-standard architecture & validation practices
-- Working through a structured full-stack training kit — frontend, backend, and integration milestones
+- Building backend <img src="https://img.shields.io/badge/REST%20APIs-6f42c1?style=flat-square" height="18"/> following industry-standard architecture & <img src="https://img.shields.io/badge/Validation-1A7F37?style=flat-square" height="18"/> practices
+- Working through a structured full-stack training kit — <img src="https://img.shields.io/badge/Frontend-D97706?style=flat-square" height="18"/> <img src="https://img.shields.io/badge/Backend-0969DA?style=flat-square" height="18"/> <img src="https://img.shields.io/badge/Integration-BF3989?style=flat-square" height="18"/> milestones
 
 </td>
 </tr>
@@ -126,7 +136,7 @@ fun_fact: >
 **App Development Intern** — CodeAlpha
 *Jul 2026 · Remote*
 
-- Contributed to mobile/app development tasks during a short-term internship
+- Contributed to <img src="https://img.shields.io/badge/Mobile%2FApp%20Development-6A1B9A?style=flat-square" height="18"/> tasks during a short-term internship
 
 </td>
 </tr>
@@ -144,8 +154,14 @@ fun_fact: >
 **BS Computer Science** — COMSATS University Islamabad, Wah Campus
 *Aug 2024 – Sep 2028*
 
-- Coursework: OOP · Data Structures & Algorithms · Database Systems · Artificial Intelligence · Information Security
-- Member, Student Startup Business Society (SSBS)
+Coursework:
+<img src="https://img.shields.io/badge/OOP-6f42c1?style=flat-square" height="18"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1A7F37?style=flat-square" height="18"/>
+<img src="https://img.shields.io/badge/Database%20Systems-4479A1?style=flat-square" height="18"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-D97706?style=flat-square" height="18"/>
+<img src="https://img.shields.io/badge/Information%20Security-D73A49?style=flat-square" height="18"/>
+
+- 🚀 **Member**, Student Startup Business Society (SSBS)
 
 </td>
 </tr>
@@ -206,6 +222,12 @@ fun_fact: >
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaejaz922&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaejaz922&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=4CA1AF&point=D97706" width="100%" />
 </p>
 
 ## 🏆 GitHub Trophies
