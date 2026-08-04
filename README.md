@@ -65,23 +65,39 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 ## 🧰 Tech Stack
 
 **Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html" />
-</p>
-<p align="left"><sub>Python · Java · C++ · C · HTML</sub></p>
+
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="48" height="48"/><br><sub><b>Python</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="48" height="48"/><br><sub><b>Java</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/><br><sub><b>C++</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=c" width="48" height="48"/><br><sub><b>C</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br><sub><b>HTML</b></sub></td>
+</tr>
+</table>
 
 **Frameworks & Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
-</p>
-<p align="left"><sub>Node.js · Express · MySQL · MongoDB</sub></p>
+
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br><sub><b>Node.js</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="48" height="48"/><br><sub><b>Express</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/><br><sub><b>MySQL</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/><br><sub><b>MongoDB</b></sub></td>
+</tr>
+</table>
 
 **Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-</p>
-<p align="left"><sub>Git · GitHub · VS Code · IntelliJ IDEA · Dev-C++</sub></p>
 
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br><sub><b>Git</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br><sub><b>GitHub</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/><br><sub><b>VS Code</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=idea" width="48" height="48"/><br><sub><b>IntelliJ IDEA</b></sub></td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/-Dev--C++-1F72FF?style=flat-square&logoColor=white" height="24"/><br><sub><b>Dev-C++</b></sub></td>
+</tr>
+</table>
 **CS Concepts & Core Skills**
 <p align="left">
   <img src="https://img.shields.io/badge/OOP%20%26%20DESIGN%20PATTERNS-6f42c1?style=for-the-badge" />
