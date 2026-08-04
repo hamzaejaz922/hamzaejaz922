@@ -271,8 +271,9 @@ Coursework:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## Getting your self tired in its peak command
-<p align="center"><b><span style="color:#FFFFFF">"MQ"</span></b></p>
+<p align="center"><b><span style="color:#FFFFFF">MQ</span></b></p>
+
+<h2 align="center">"Getting your self tired in its peak command"</h2>
 
 <p align="center">
   <i>Consistency, discipline, and hands-on experience — that's how I grow as a person, and how I'm building my career as an aspiring AI app developer and cybersecurity enthusiast.</i>
