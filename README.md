@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=06B6D4&background=1F2937&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+Intern+%40+DecodeLabs;Aspiring+AI+App+Developer;Aspiring+Cybersecurity+Analyst;Getting+yourself+tired+in+its+peak+command;Turning+Ideas+Into+Working+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&background=1F2937&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+Intern+%40+DecodeLabs;Aspiring+AI+App+Developer;Aspiring+Cybersecurity+Analyst;Getting+yourself+tired+in+its+peak+command;Turning+Ideas+Into+Working+Code" />
 </p>
 
 <p align="center">
@@ -95,7 +95,6 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br><sub><b>GitHub</b></sub></td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/><br><sub><b>VS Code</b></sub></td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=idea" width="48" height="48"/><br><sub><b>IntelliJ IDEA</b></sub></td>
-<td align="center" width="110"><img src="./assets/devcpp-icon.png" width="48" height="48"/><br><sub><b>Dev-C++</b></sub></td>
 </tr>
 </table>
 
