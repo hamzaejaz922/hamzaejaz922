@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4CA1AF&height=220&section=header&text=Muhammad%20Hamza&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20App%20Dev%20%C2%B7%20Cybersecurity%20%7C%20BSCS%20Student%20%40%20COMSATS&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:06B6D4&height=220&section=header&text=Muhammad%20Hamza&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20App%20Dev%20%C2%B7%20Cybersecurity%20%7C%20BSCS%20Student%20%40%20COMSATS&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+Intern+%40+DecodeLabs;Aspiring+AI+App+Developer;Aspiring+Cybersecurity+Analyst;Getting+yourself+tired+in+its+peak+command;Turning+Ideas+Into+Working+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=06B6D4&background=1F2937&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+Intern+%40+DecodeLabs;Aspiring+AI+App+Developer;Aspiring+Cybersecurity+Analyst;Getting+yourself+tired+in+its+peak+command;Turning+Ideas+Into+Working+Code" />
 </p>
 
 <p align="center">
@@ -95,9 +95,10 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br><sub><b>GitHub</b></sub></td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/><br><sub><b>VS Code</b></sub></td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=idea" width="48" height="48"/><br><sub><b>IntelliJ IDEA</b></sub></td>
-<td align="center" width="110"><img src="https://img.shields.io/badge/-Dev--C++-1F72FF?style=flat-square&logoColor=white" height="24"/><br><sub><b>Dev-C++</b></sub></td>
+<td align="center" width="110"><img src="./assets/devcpp-icon.png" width="48" height="48"/><br><sub><b>Dev-C++</b></sub></td>
 </tr>
 </table>
+
 **CS Concepts & Core Skills**
 <p align="left">
   <img src="https://img.shields.io/badge/OOP%20%26%20DESIGN%20PATTERNS-6f42c1?style=for-the-badge" />
@@ -279,5 +280,5 @@ Coursework:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4CA1AF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:06B6D4&height=100&section=footer" />
 </p>
