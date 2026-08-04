@@ -161,23 +161,63 @@ A growing collection of data structures & algorithms implementations in C++.
 
 ### 💼 Experience
 
-◆ **Full Stack Development Intern** · DecodeLabs · *Jul 2026 – Present*
-Wah, Pakistan
+<table>
+<tr>
+<td width="100%" valign="top">
+
+🟢 **Full Stack Development Intern**
+<img src="https://img.shields.io/badge/DecodeLabs-2C3E50?style=flat-square" /> <img src="https://img.shields.io/badge/Jul%202026%20--%20Present-4CA1AF?style=flat-square" /> <img src="https://img.shields.io/badge/📍%20Wah,%20Pakistan-238636?style=flat-square" />
+
 - Building backend REST APIs following industry-standard architecture & validation practices
 - Working through a structured full-stack training kit — frontend, backend, and integration milestones
 
-◆ **App Development Intern** · CodeAlpha · *Jul 2026*
-Wah, Pakistan
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+🔵 **App Development Intern**
+<img src="https://img.shields.io/badge/CodeAlpha-1f6feb?style=flat-square" /> <img src="https://img.shields.io/badge/Jul%202026-4CA1AF?style=flat-square" /> <img src="https://img.shields.io/badge/📍%20Wah,%20Pakistan-238636?style=flat-square" />
+
 - Contributed to mobile/app development tasks during a short-term internship
+
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ### 🎓 Education
 
-- **COMSATS University Islamabad, Wah Campus** — BS Computer Science *(Aug 2024 – Sep 2028)*
-  Relevant Coursework: OOP, Data Structures & Algorithms, Database Systems, Artificial Intelligence, Information Security · Member, Student Startup Business Society (SSBS)
-- **FG Degree College** — Intermediate, Pre-Engineering *(2023 – 2024)*
-- **Sir Syed College Campus 2** — Matriculation, Science *(2021 – 2022)*
+<table>
+<tr>
+<td width="100%" valign="top">
+
+🟣 **BS Computer Science**
+<img src="https://img.shields.io/badge/COMSATS%20University%20Islamabad,%20Wah%20Campus-6f42c1?style=flat-square" /> <img src="https://img.shields.io/badge/Aug%202024%20--%20Sep%202028-4CA1AF?style=flat-square" />
+
+- **Coursework:** OOP · Data Structures & Algorithms · Database Systems · Artificial Intelligence · Information Security
+- **Member**, Student Startup Business Society (SSBS)
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+🟠 **Intermediate, Pre-Engineering**
+<img src="https://img.shields.io/badge/FG%20Degree%20College-C4581E?style=flat-square" /> <img src="https://img.shields.io/badge/2023%20--%202024-4CA1AF?style=flat-square" />
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+🟡 **Matriculation, Science**
+<img src="https://img.shields.io/badge/Sir%20Syed%20College%20Campus%202-9E6A03?style=flat-square" /> <img src="https://img.shields.io/badge/2021%20--%202022-4CA1AF?style=flat-square" />
+
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
