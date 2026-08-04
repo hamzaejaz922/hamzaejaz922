@@ -40,18 +40,18 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 <table>
 <tr><td>
 
-🔴 🟡 🟢 &nbsp; `hamza@wah:~$`
+🔴 🟡 🟢
 
 ```yaml
-name       : Muhammad Hamza
-role       : Full Stack Dev Intern
-company    : DecodeLabs
-degree     : B.S. Computer Science
-university : COMSATS Islamabad
-graduating : Sep 2028
-location   : Wah Cantt, Pakistan
+Name       : Muhammad Hamza
+Role       : Full Stack Dev Intern
+Company    : DecodeLabs
+Degree     : B.S. Computer Science
+University : COMSATS Islamabad
+Graduating : July 2028
+Location   : Wah Cantt, Pakistan
 
-focus:
+Focus:
   - AI App Development 🤖
   - Cybersecurity 🔐
 ```
@@ -62,7 +62,6 @@ focus:
 </td>
 </tr>
 </table>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🧰 Tech Stack
