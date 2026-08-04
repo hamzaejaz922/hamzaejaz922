@@ -232,12 +232,12 @@ Coursework:
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzaejaz922&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaejaz922&theme=dark&hide_border=true&background=0D1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzaejaz922&show_icons=true&theme=dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=FF4FA3&text_color=00E5FF&icon_color=00E5FF&ring_color=FF4FA3" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaejaz922&theme=dark&hide_border=false&border=30363d&background=0D1117&ring=FF4FA3&fire=FF4FA3&currStreakLabel=00E5FF" height="180" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaejaz922&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaejaz922&layout=compact&theme=dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=FF4FA3&text_color=00E5FF" />
 </p>
 
 ### 📈 Contribution Graph
