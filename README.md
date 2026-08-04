@@ -66,18 +66,21 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 
 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html" />
 </p>
+<p align="left"><sub>Python · Java · C++ · C · HTML</sub></p>
 
 **Frameworks & Backend**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
 </p>
+<p align="left"><sub>Node.js · Express · MySQL · MongoDB</sub></p>
 
 **Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
+<p align="left"><sub>Git · GitHub · VS Code · IntelliJ IDEA · Dev-C++</sub></p>
 
 **CS Concepts & Core Skills**
 <p align="left">
