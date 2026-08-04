@@ -18,10 +18,6 @@
 
 ## 👋 About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Campus**, building backend systems and full-stack applications while developing a strong foundation in **AI and Cybersecurity**.
 
 - 💼 Full Stack Development Intern @ **DecodeLabs**
@@ -34,34 +30,27 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 - 📍 Based in **Wah Cantt, Pakistan**
 - 📫 Reach me at [hamzaejaz3136@gmail.com](mailto:hamzaejaz3136@gmail.com)
 
-</td>
-<td width="45%" valign="top">
-
 <table>
 <tr><td>
 
 🔴 🟡 🟢
 
-```yaml
-Name       : Muhammad Hamza
-Role       : Full Stack Dev Intern
-Company    : DecodeLabs
-Degree     : B.S. Computer Science
-University : COMSATS Islamabad
-Graduating : July 2028
-Location   : Wah Cantt, Pakistan
+```ini
+Name       = Muhammad Hamza
+Role       = Full Stack Dev Intern
+Degree     = B.S. Computer Science
+University = COMSATS Islamabad
+Graduating = July 2028
+Location   = Wah Cantt, Pakistan
 
-Focus:
-  - AI App Development 🤖
-  - Cybersecurity 🔐
+[Focus]
+AI App Development 🤖
+Cybersecurity 🔐
 ```
 
 </td></tr>
 </table>
 
-</td>
-</tr>
-</table>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🧰 Tech Stack
