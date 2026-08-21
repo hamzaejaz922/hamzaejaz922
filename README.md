@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:0D1117&height=220&section=header&text=Muhammad%20Hamza&fontSize=50&fontColor=39D353&animation=fadeIn&fontAlignY=38&desc=AI%20App%20Dev%20%C2%B7%20Cybersecurity%20%7C%20BSCS%20Student%20%40%20COMSATS&descAlignY=58&descSize=18&descColor=C9D1D9" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:000000&height=220&section=header&text=Muhammad%20Hamza&fontSize=50&fontColor=39D353&animation=fadeIn&fontAlignY=38&desc=AI%20App%20Dev%20%C2%B7%20Cybersecurity%20%7C%20BSCS%20Student%20%40%20COMSATS&descAlignY=58&descSize=18&descColor=58A6FF" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39D353&background=0D1117&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+Intern+%40+DecodeLabs;Aspiring+AI+App+Developer;Aspiring+Cybersecurity+Analyst;Getting+yourself+tired+in+its+peak+command;Turning+Ideas+Into+Working+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A371F7&background=0D1117&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+Intern+%40+DecodeLabs;Aspiring+AI+App+Developer;Aspiring+Cybersecurity+Analyst;Getting+yourself+tired+in+its+peak+command;Turning+Ideas+Into+Working+Code" />
 </p>
 
 <p align="center">
-  <a href="mailto:hamzaejaz3136@gmail.com"><img src="https://img.shields.io/badge/✉️_Gmail-39D353?style=flat-square&labelColor=000000" /></a>
+  <a href="mailto:hamzaejaz3136@gmail.com"><img src="https://img.shields.io/badge/✉️_Gmail-F78166?style=flat-square&labelColor=000000" /></a>
   <a href="https://github.com/hamzaejaz922"><img src="https://img.shields.io/badge/🐙_GitHub-39D353?style=flat-square&labelColor=000000" /></a>
-  <a href="https://linkedin.com/in/hamza922"><img src="https://img.shields.io/badge/💼_LinkedIn-39D353?style=flat-square&labelColor=000000" /></a>
-  <img src="https://img.shields.io/badge/📍_Wah-39D353?style=flat-square&labelColor=000000" />
-  <img src="https://img.shields.io/badge/🇵🇰_Pakistan-39D353?style=flat-square&labelColor=000000" />
+  <a href="https://linkedin.com/in/hamza922"><img src="https://img.shields.io/badge/💼_LinkedIn-58A6FF?style=flat-square&labelColor=000000" /></a>
+  <img src="https://img.shields.io/badge/📍_Wah-A371F7?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🇵🇰_Pakistan-F0B72F?style=flat-square&labelColor=000000" />
 </p>
 
 <br>
@@ -40,7 +40,7 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 <table>
 <tr><td>
 
-🟢 ⚪ ⚫
+🟢 🔵 🟣
 
 | | |
 |:--|:--|
@@ -100,18 +100,18 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 
 **CS Concepts & Core Skills**
 <p align="left">
-  <img src="https://img.shields.io/badge/OOP%20%26%20DESIGN%20PATTERNS-39D353?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/SDLC-39D353?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/SOFTWARE%20REQUIREMENTS-39D353?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/OOP%20%26%20DESIGN%20PATTERNS-A371F7?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/SDLC-58A6FF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/SOFTWARE%20REQUIREMENTS-F0B72F?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/TCP%2FIP-39D353?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/MULTITHREADING-39D353?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/SCHEDULING-39D353?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/MULTITHREADING-F778BA?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/SCHEDULING-F0883E?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/DATA%20STRUCTURES%20%26%20ALGORITHMS-39D353?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/BFS%20%26%20DFS-39D353?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/A*%20%26%20DIJKSTRA-39D353?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/REST%20APIS-39D353?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/BFS%20%26%20DFS-58A6FF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/A*%20%26%20DIJKSTRA-A371F7?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/REST%20APIS-F0B72F?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/PROJECT%20PLANNING-39D353?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/REQUIREMENTS%20ANALYSIS-39D353?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/REQUIREMENTS%20ANALYSIS-58A6FF?style=for-the-badge&labelColor=000000" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -137,8 +137,8 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 **Full Stack Development Intern** — DecodeLabs
 *Jul 2026 – Present · Remote*
 
-- Building backend <img src="https://img.shields.io/badge/REST%20APIs-39D353?style=flat-square&labelColor=000000" height="18"/> following industry-standard architecture & <img src="https://img.shields.io/badge/Validation-39D353?style=flat-square&labelColor=000000" height="18"/> practices
-- Working through a structured full-stack training kit — <img src="https://img.shields.io/badge/Frontend-39D353?style=flat-square&labelColor=000000" height="18"/> <img src="https://img.shields.io/badge/Backend-39D353?style=flat-square&labelColor=000000" height="18"/> <img src="https://img.shields.io/badge/Integration-39D353?style=flat-square&labelColor=000000" height="18"/> milestones
+- Building backend <img src="https://img.shields.io/badge/REST%20APIs-A371F7?style=flat-square&labelColor=000000" height="18"/> following industry-standard architecture & <img src="https://img.shields.io/badge/Validation-39D353?style=flat-square&labelColor=000000" height="18"/> practices
+- Working through a structured full-stack training kit — <img src="https://img.shields.io/badge/Frontend-F0B72F?style=flat-square&labelColor=000000" height="18"/> <img src="https://img.shields.io/badge/Backend-58A6FF?style=flat-square&labelColor=000000" height="18"/> <img src="https://img.shields.io/badge/Integration-F778BA?style=flat-square&labelColor=000000" height="18"/> milestones
 
 </td>
 </tr>
@@ -152,7 +152,7 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 **App Development Intern** — CodeAlpha
 *Jul 2026 · Remote*
 
-- Contributed to <img src="https://img.shields.io/badge/Mobile%2FApp%20Development-39D353?style=flat-square&labelColor=000000" height="18"/> tasks during a short-term internship
+- Contributed to <img src="https://img.shields.io/badge/Mobile%2FApp%20Development-F0883E?style=flat-square&labelColor=000000" height="18"/> tasks during a short-term internship
 
 </td>
 </tr>
@@ -172,10 +172,10 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 
 Coursework:
 <img src="https://img.shields.io/badge/OOP-39D353?style=flat-square&labelColor=000000" height="18"/>
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-39D353?style=flat-square&labelColor=000000" height="18"/>
-<img src="https://img.shields.io/badge/Database%20Systems-39D353?style=flat-square&labelColor=000000" height="18"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-39D353?style=flat-square&labelColor=000000" height="18"/>
-<img src="https://img.shields.io/badge/Information%20Security-39D353?style=flat-square&labelColor=000000" height="18"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-58A6FF?style=flat-square&labelColor=000000" height="18"/>
+<img src="https://img.shields.io/badge/Database%20Systems-A371F7?style=flat-square&labelColor=000000" height="18"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-F0B72F?style=flat-square&labelColor=000000" height="18"/>
+<img src="https://img.shields.io/badge/Information%20Security-F778BA?style=flat-square&labelColor=000000" height="18"/>
 
 - 🚀 **Member**, Student Startup Business Society (SSBS)
 
@@ -215,8 +215,8 @@ Coursework:
   <img src="https://img.shields.io/badge/DELOITTE-86BC25?style=for-the-badge&logo=deloitte&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/MASTERCARD-EB001B?style=for-the-badge&logo=mastercard&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/BCG%20X%20GENAI-39D353?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/DATACOM-39D353?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/BCG%20X%20GENAI-58A6FF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/DATACOM-F0B72F?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/JPMORGAN%20CHASE-000000?style=for-the-badge&logo=jpmorganchase&logoColor=white&labelColor=000000" />
 </p>
 
@@ -232,18 +232,18 @@ Coursework:
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzaejaz922&show_icons=true&hide_border=true&bg_color=000000&title_color=39D353&icon_color=39D353&text_color=C9D1D9&border_radius=12" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=hamzaejaz922&hide_border=true&background=000000&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280&border_radius=12" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzaejaz922&show_icons=true&hide_border=true&bg_color=000000&title_color=58A6FF&icon_color=39D353&text_color=C9D1D9&border_radius=12" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=hamzaejaz922&hide_border=true&background=000000&stroke=A371F7&ring=39D353&fire=F0883E&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280&border_radius=12" height="165" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaejaz922&layout=compact&hide_border=true&bg_color=000000&title_color=39D353&text_color=C9D1D9&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaejaz922&layout=compact&hide_border=true&bg_color=000000&title_color=A371F7&text_color=C9D1D9&border_radius=12" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaejaz922&hide_border=true&bg_color=000000&color=C9D1D9&line=39D353&point=39D353&area=true&area_color=39D353" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaejaz922&hide_border=true&bg_color=000000&color=C9D1D9&line=58A6FF&point=F0883E&area=true&area_color=39D353" width="100%" />
 </p>
 
 ### 🐍 Contribution Snake
@@ -251,8 +251,6 @@ Coursework:
 <p align="left">
   <img src="https://raw.githubusercontent.com/hamzaejaz922/hamzaejaz922/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
-
-<sub>⚙️ Snake animation ke liye ek baar GitHub Action setup karna zaroori hai <code>hamzaejaz922/hamzaejaz922</code> repo me — neeche instructions hain.</sub>
 
 ## 🏆 GitHub Trophies
 
@@ -270,8 +268,8 @@ Coursework:
 
 <p align="left">
   <a href="https://github.com/hamzaejaz922"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39D353" /></a>
-  <a href="https://linkedin.com/in/hamza922"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39D353" /></a>
-  <a href="mailto:hamzaejaz3136@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39D353" /></a>
+  <a href="https://linkedin.com/in/hamza922"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
+  <a href="mailto:hamzaejaz3136@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=F0883E" /></a>
 </p>
 
 📧 **Email:** [hamzaejaz3136@gmail.com](mailto:hamzaejaz3136@gmail.com)
@@ -279,7 +277,7 @@ Coursework:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<p align="center"><b><span style="color:#39D353">MQ</span></b></p>
+<p align="center"><b><span style="color:#A371F7">MQ</span></b></p>
 
 <h2 align="center">"Getting your self tired in its peak command"</h2>
 
@@ -288,5 +286,5 @@ Coursework:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D1117,100:000000&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:000000&height=100&section=footer" />
 </p>
