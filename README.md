@@ -1,17 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:000000&height=220&section=header&text=Muhammad%20Hamza&fontSize=50&fontColor=39D353&animation=fadeIn&fontAlignY=38&desc=AI%20App%20Dev%20%C2%B7%20Cybersecurity%20%7C%20BSCS%20Student%20%40%20COMSATS&descAlignY=58&descSize=18&descColor=58A6FF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:000000&height=230&section=header&text=Muhammad%20Hamza&fontSize=52&fontColor=39D353&animation=fadeIn&fontAlignY=35&desc=AI%20App%20Dev%20%C2%B7%20Cybersecurity%20%7C%20BSCS%20Student%20%40%20COMSATS&descAlignY=58&descSize=18&descColor=58A6FF" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A371F7&background=0D1117&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+Intern+%40+DecodeLabs;Aspiring+AI+App+Developer;Aspiring+Cybersecurity+Analyst;Getting+yourself+tired+in+its+peak+command;Turning+Ideas+Into+Working+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F0B72F&background=0D1117&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+Intern+%40+DecodeLabs;Aspiring+AI+App+Developer;Aspiring+Cybersecurity+Analyst;Getting+yourself+tired+in+its+peak+command;Turning+Ideas+Into+Working+Code" />
 </p>
 
 <p align="center">
-  <a href="mailto:hamzaejaz3136@gmail.com"><img src="https://img.shields.io/badge/✉️_Gmail-F78166?style=flat-square&labelColor=000000" /></a>
+  <a href="mailto:hamzaejaz3136@gmail.com"><img src="https://img.shields.io/badge/✉️_Gmail-F0883E?style=flat-square&labelColor=000000" /></a>
   <a href="https://github.com/hamzaejaz922"><img src="https://img.shields.io/badge/🐙_GitHub-39D353?style=flat-square&labelColor=000000" /></a>
   <a href="https://linkedin.com/in/hamza922"><img src="https://img.shields.io/badge/💼_LinkedIn-58A6FF?style=flat-square&labelColor=000000" /></a>
   <img src="https://img.shields.io/badge/📍_Wah-A371F7?style=flat-square&labelColor=000000" />
   <img src="https://img.shields.io/badge/🇵🇰_Pakistan-F0B72F?style=flat-square&labelColor=000000" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamzaejaz922&label=Profile+Views&color=39D353&style=flat-square&labelColor=000000" />
 </p>
 
 <br>
@@ -40,7 +44,7 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 <table>
 <tr><td>
 
-🟢 🔵 🟣
+🟢 🔵 🟡
 
 | | |
 |:--|:--|
@@ -55,6 +59,57 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 
 </td></tr>
 </table>
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 📊 Quick Stats
+
+<table width="100%">
+<tr>
+<td align="center" width="16.6%">
+
+🎓
+**5th Semester**
+BSCS @ COMSATS
+
+</td>
+<td align="center" width="16.6%">
+
+💼
+**2 Internships**
+DecodeLabs · CodeAlpha
+
+</td>
+<td align="center" width="16.6%">
+
+🧾
+**6+ Certifications**
+Cisco · Mastercard · Deloitte · BCG X
+
+</td>
+<td align="center" width="16.6%">
+
+🚀
+**4+ Projects**
+Built & shipped
+
+</td>
+<td align="center" width="16.6%">
+
+🧠
+**2 Focus Areas**
+AI Apps · Cybersecurity
+
+</td>
+<td align="center" width="16.6%">
+
+⏳
+**Coding Since 2022**
+Growing every day
 
 </td>
 </tr>
@@ -104,7 +159,7 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
   <img src="https://img.shields.io/badge/SDLC-58A6FF?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/SOFTWARE%20REQUIREMENTS-F0B72F?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/TCP%2FIP-39D353?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/MULTITHREADING-F778BA?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/MULTITHREADING-F85149?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/SCHEDULING-F0883E?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/DATA%20STRUCTURES%20%26%20ALGORITHMS-39D353?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/BFS%20%26%20DFS-58A6FF?style=for-the-badge&labelColor=000000" />
@@ -138,7 +193,7 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 *Jul 2026 – Present · Remote*
 
 - Building backend <img src="https://img.shields.io/badge/REST%20APIs-A371F7?style=flat-square&labelColor=000000" height="18"/> following industry-standard architecture & <img src="https://img.shields.io/badge/Validation-39D353?style=flat-square&labelColor=000000" height="18"/> practices
-- Working through a structured full-stack training kit — <img src="https://img.shields.io/badge/Frontend-F0B72F?style=flat-square&labelColor=000000" height="18"/> <img src="https://img.shields.io/badge/Backend-58A6FF?style=flat-square&labelColor=000000" height="18"/> <img src="https://img.shields.io/badge/Integration-F778BA?style=flat-square&labelColor=000000" height="18"/> milestones
+- Working through a structured full-stack training kit — <img src="https://img.shields.io/badge/Frontend-F0B72F?style=flat-square&labelColor=000000" height="18"/> <img src="https://img.shields.io/badge/Backend-58A6FF?style=flat-square&labelColor=000000" height="18"/> <img src="https://img.shields.io/badge/Integration-F85149?style=flat-square&labelColor=000000" height="18"/> milestones
 
 </td>
 </tr>
@@ -175,7 +230,7 @@ Coursework:
 <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-58A6FF?style=flat-square&labelColor=000000" height="18"/>
 <img src="https://img.shields.io/badge/Database%20Systems-A371F7?style=flat-square&labelColor=000000" height="18"/>
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-F0B72F?style=flat-square&labelColor=000000" height="18"/>
-<img src="https://img.shields.io/badge/Information%20Security-F778BA?style=flat-square&labelColor=000000" height="18"/>
+<img src="https://img.shields.io/badge/Information%20Security-F85149?style=flat-square&labelColor=000000" height="18"/>
 
 - 🚀 **Member**, Student Startup Business Society (SSBS)
 
@@ -229,7 +284,7 @@ Coursework:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hamzaejaz922&show_icons=true&hide_border=true&bg_color=000000&title_color=58A6FF&icon_color=39D353&text_color=C9D1D9&border_radius=12" height="165" />
@@ -240,7 +295,7 @@ Coursework:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaejaz922&layout=compact&hide_border=true&bg_color=000000&title_color=A371F7&text_color=C9D1D9&border_radius=12" />
 </p>
 
-### 📈 Contribution Graph
+### 📊 Contribution Graph
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaejaz922&hide_border=true&bg_color=000000&color=C9D1D9&line=58A6FF&point=F0883E&area=true&area_color=39D353" width="100%" />
@@ -277,7 +332,7 @@ Coursework:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<p align="center"><b><span style="color:#A371F7">MQ</span></b></p>
+<p align="center"><b><span style="color:#F0B72F">MQ</span></b></p>
 
 <h2 align="center">"Getting your self tired in its peak command"</h2>
 
