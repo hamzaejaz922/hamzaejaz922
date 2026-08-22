@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A371F7&background=0D1117&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+Intern+%40+DecodeLabs;Aspiring+AI+App+Developer;Aspiring+Cybersecurity+Analyst;Getting+yourself+tired+in+its+peak+command;Turning+Ideas+Into+Working+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=56D4DD&background=0D1117&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+Intern+%40+DecodeLabs;Aspiring+AI+App+Developer;Aspiring+Cybersecurity+Analyst;Getting+yourself+tired+in+its+peak+command;Turning+Ideas+Into+Working+Code" />
 </p>
 
 <p align="center">
@@ -12,6 +12,10 @@
   <a href="https://linkedin.com/in/hamza922"><img src="https://img.shields.io/badge/💼_LinkedIn-58A6FF?style=flat-square&labelColor=000000" /></a>
   <img src="https://img.shields.io/badge/📍_Wah-A371F7?style=flat-square&labelColor=000000" />
   <img src="https://img.shields.io/badge/🇵🇰_Pakistan-56D4DD?style=flat-square&labelColor=000000" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamzaejaz922&label=Profile%20Views&color=56D4DD&style=flat-square" alt="Profile views" />
 </p>
 
 <br>
@@ -59,6 +63,10 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 </td>
 </tr>
 </table>
+
+<p align="left">
+  <img src="./learning-badge.svg" alt="Currently learning" />
+</p>
 
 <img src="./divider.svg" width="100%">
 
@@ -265,16 +273,16 @@ Coursework:
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaejaz922&layout=compact&hide_border=true&bg_color=000000&title_color=A371F7&text_color=C9D1D9&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaejaz922&layout=compact&hide_border=true&bg_color=000000&title_color=56D4DD&text_color=C9D1D9&border_radius=12" />
 </p>
 
-**📈 Contribution Graph**
+<img src="./sec-graph.svg" width="100%" alt="Contribution Graph" />
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaejaz922&hide_border=true&bg_color=000000&color=C9D1D9&line=58A6FF&point=F0883E&area=true&area_color=39D353" width="100%" />
 </p>
 
-**🐍 Contribution Snake**
+<img src="./sec-snake.svg" width="100%" alt="Contribution Snake" />
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/hamzaejaz922/hamzaejaz922/output/github-contribution-grid-snake-dark.svg" width="100%" />
@@ -306,6 +314,10 @@ Coursework:
 🔗 **LinkedIn:** [linkedin.com/in/hamza922](https://linkedin.com/in/hamza922)
 
 <img src="./divider.svg" width="100%">
+
+<p align="center">
+  <img src="./terminal-cursor.svg" alt="terminal sign-off" />
+</p>
 
 <p align="center"><b><span style="color:#A371F7">MQ</span></b></p>
 
