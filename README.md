@@ -20,6 +20,10 @@
 
 <br>
 
+<p align="center">
+  <img src="./boot-sequence.svg" alt="Boot sequence" />
+</p>
+
 <img src="./sec-about.svg" width="100%" alt="About Me" />
 
 <table width="100%">
@@ -100,6 +104,16 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 <img src="./divider.svg" width="100%">
 
 <img src="./sec-techstack.svg" width="100%" alt="Tech Stack" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzaejaz922&show_icons=true&include_all_commits=true&hide_border=false&border_color=6b46c1&bg_color=0a0e17&title_color=58A6FF&icon_color=A371F7&text_color=56D4DD&border_radius=12&custom_title=My%20GitHub%20Statistics" alt="My GitHub Statistics" />
+</p>
+
+<p align="center">
+<marquee behavior="scroll" direction="left" scrollamount="6">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,nodejs,express,mysql,mongodb,git,github,vscode,idea" height="45"/>
+</marquee>
+</p>
 
 **Languages**
 
