@@ -283,7 +283,7 @@ Coursework:
   <img src="https://streak-stats.demolab.com/?user=hamzaejaz922&hide_border=true&background=000000&stroke=A371F7&ring=39D353&fire=F0883E&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280&border_radius=12" height="165" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hamzaejaz922&layout=compact&hide_border=true&bg_color=000000&title_color=56D4DD&text_color=C9D1D9&border_radius=12" />
 </p>
 
