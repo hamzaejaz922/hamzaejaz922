@@ -106,10 +106,6 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 <img src="./sec-techstack.svg" width="100%" alt="Tech Stack" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzaejaz922&show_icons=true&include_all_commits=true&hide_border=false&border_color=6b46c1&bg_color=0a0e17&title_color=58A6FF&icon_color=A371F7&text_color=56D4DD&border_radius=12&custom_title=My%20GitHub%20Statistics" alt="My GitHub Statistics" />
-</p>
-
-<p align="center">
 <marquee behavior="scroll" direction="left" scrollamount="6">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,nodejs,express,mysql,mongodb,git,github,vscode,idea" height="45"/>
 </marquee>
@@ -289,6 +285,10 @@ Coursework:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaejaz922&layout=compact&hide_border=true&bg_color=000000&title_color=56D4DD&text_color=C9D1D9&border_radius=12" />
+</p>
+
+<p align="center">
+  <img src="./boot-sequence.svg" alt="Boot sequence" />
 </p>
 
 <img src="./sec-graph.svg" width="100%" alt="Contribution Graph" />
