@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Muhammad Hamza banner" />
+  <img src="./banner.svg" width="100%" alt="Muhammad Hamza banner" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="./assets/sec-about.svg" width="100%" alt="About Me" />
+<img src="./sec-about.svg" width="100%" alt="About Me" />
 
 <table width="100%">
 <tr>
@@ -60,9 +60,9 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%">
+<img src="./divider.svg" width="100%">
 
-<img src="./assets/sec-snapshot.svg" width="100%" alt="Profile Snapshot" />
+<img src="./sec-snapshot.svg" width="100%" alt="Profile Snapshot" />
 
 <table width="100%">
 <tr>
@@ -88,9 +88,9 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
   <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-F0B72F?style=for-the-badge&labelColor=000000" />
 </p>
 
-<img src="./assets/divider.svg" width="100%">
+<img src="./divider.svg" width="100%">
 
-<img src="./assets/sec-techstack.svg" width="100%" alt="Tech Stack" />
+<img src="./sec-techstack.svg" width="100%" alt="Tech Stack" />
 
 **Languages**
 
@@ -142,9 +142,9 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
   <img src="https://img.shields.io/badge/REQUIREMENTS%20ANALYSIS-58A6FF?style=for-the-badge&labelColor=000000" />
 </p>
 
-<img src="./assets/divider.svg" width="100%">
+<img src="./divider.svg" width="100%">
 
-<img src="./assets/sec-projects.svg" width="100%" alt="Projects" />
+<img src="./sec-projects.svg" width="100%" alt="Projects" />
 
 | Project | Description | Stack |
 |---|---|---|
@@ -153,9 +153,9 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 | ✈️ **Flight Management System** | Terminal-based airline reservation system for 10+ flight routes & 200+ passenger records, with booking, cancellation & search; extended with a MySQL backend via JDBC | `C++` · `OOP` · `MySQL` |
 | 🧮 **DSA Practice** | Growing collection of data structures & algorithms implementations, including graph & search algorithms (BFS, DFS, A*, Dijkstra) | `C++` · `DSA` |
 
-<img src="./assets/divider.svg" width="100%">
+<img src="./divider.svg" width="100%">
 
-<img src="./assets/sec-experience.svg" width="100%" alt="Experience" />
+<img src="./sec-experience.svg" width="100%" alt="Experience" />
 
 <table>
 <tr>
@@ -186,9 +186,9 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%">
+<img src="./divider.svg" width="100%">
 
-<img src="./assets/sec-education.svg" width="100%" alt="Education" />
+<img src="./sec-education.svg" width="100%" alt="Education" />
 
 <table>
 <tr>
@@ -235,9 +235,9 @@ Coursework:
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%">
+<img src="./divider.svg" width="100%">
 
-<img src="./assets/sec-certifications.svg" width="100%" alt="Certifications" />
+<img src="./sec-certifications.svg" width="100%" alt="Certifications" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/DELOITTE-86BC25?style=for-the-badge&logo=deloitte&logoColor=white&labelColor=000000" />
@@ -255,9 +255,9 @@ Coursework:
 - **DATACOM** — Software Development Job Simulation
 - **JPMorgan Chase & Co.** — Software Engineering Job Simulation
 
-<img src="./assets/divider.svg" width="100%">
+<img src="./divider.svg" width="100%">
 
-<img src="./assets/sec-stats.svg" width="100%" alt="GitHub Stats" />
+<img src="./sec-stats.svg" width="100%" alt="GitHub Stats" />
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hamzaejaz922&show_icons=true&hide_border=true&bg_color=000000&title_color=58A6FF&icon_color=39D353&text_color=C9D1D9&border_radius=12" height="165" />
@@ -280,17 +280,17 @@ Coursework:
   <img src="https://raw.githubusercontent.com/hamzaejaz922/hamzaejaz922/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
-<img src="./assets/divider.svg" width="100%">
+<img src="./divider.svg" width="100%">
 
-<img src="./assets/sec-trophies.svg" width="100%" alt="GitHub Trophies" />
+<img src="./sec-trophies.svg" width="100%" alt="GitHub Trophies" />
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=hamzaejaz922&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
-<img src="./assets/divider.svg" width="100%">
+<img src="./divider.svg" width="100%">
 
-<img src="./assets/sec-connect.svg" width="100%" alt="Connect With Me" />
+<img src="./sec-connect.svg" width="100%" alt="Connect With Me" />
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github,linkedin,gmail" />
@@ -305,7 +305,7 @@ Coursework:
 📧 **Email:** [hamzaejaz3136@gmail.com](mailto:hamzaejaz3136@gmail.com)
 🔗 **LinkedIn:** [linkedin.com/in/hamza922](https://linkedin.com/in/hamza922)
 
-<img src="./assets/divider.svg" width="100%">
+<img src="./divider.svg" width="100%">
 
 <p align="center"><b><span style="color:#A371F7">MQ</span></b></p>
 
