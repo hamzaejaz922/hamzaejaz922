@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Muhammad Hamza banner" />
+  <img src="./assets/banner.svg" width="100%" alt="Muhammad Hamza banner" />
 </p>
 
 <p align="center">
@@ -7,16 +7,16 @@
 </p>
 
 <p align="center">
-  <a href="mailto:hamzaejaz3136@gmail.com"><img src="https://img.shields.io/badge/✉️_Gmail-F78166?style=flat-square&labelColor=000000" /></a>
+  <a href="mailto:hamzaejaz3136@gmail.com"><img src="https://img.shields.io/badge/✉️_Gmail-F0B72F?style=flat-square&labelColor=000000" /></a>
   <a href="https://github.com/hamzaejaz922"><img src="https://img.shields.io/badge/🐙_GitHub-39D353?style=flat-square&labelColor=000000" /></a>
   <a href="https://linkedin.com/in/hamza922"><img src="https://img.shields.io/badge/💼_LinkedIn-58A6FF?style=flat-square&labelColor=000000" /></a>
   <img src="https://img.shields.io/badge/📍_Wah-A371F7?style=flat-square&labelColor=000000" />
-  <img src="https://img.shields.io/badge/🇵🇰_Pakistan-F0B72F?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🇵🇰_Pakistan-56D4DD?style=flat-square&labelColor=000000" />
 </p>
 
 <br>
 
-## 👋 About Me
+<img src="./assets/sec-about.svg" width="100%" alt="About Me" />
 
 <table width="100%">
 <tr>
@@ -60,9 +60,37 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="./assets/divider.svg" width="100%">
 
-## 🧰 Tech Stack
+<img src="./assets/sec-snapshot.svg" width="100%" alt="Profile Snapshot" />
+
+<table width="100%">
+<tr>
+<th align="center">🎓 Degree</th>
+<th align="center">💼 Internships</th>
+<th align="center">🏅 Certifications</th>
+<th align="center">🚀 Projects</th>
+<th align="center">🔐 Focus</th>
+</tr>
+<tr>
+<td align="center">B.S. CS — 2028</td>
+<td align="center">2 Active/Completed</td>
+<td align="center">6 Earned</td>
+<td align="center">4 Shipped</td>
+<td align="center">AI · Cybersecurity</td>
+</tr>
+</table>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CODING%20SINCE-2022-39D353?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/CURRENT%20ROLE-Full%20Stack%20Intern-58A6FF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LOCATION-Wah%20Cantt%2C%20PK-A371F7?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-F0B72F?style=for-the-badge&labelColor=000000" />
+</p>
+
+<img src="./assets/divider.svg" width="100%">
+
+<img src="./assets/sec-techstack.svg" width="100%" alt="Tech Stack" />
 
 **Languages**
 
@@ -114,9 +142,9 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
   <img src="https://img.shields.io/badge/REQUIREMENTS%20ANALYSIS-58A6FF?style=for-the-badge&labelColor=000000" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="./assets/divider.svg" width="100%">
 
-## 🟢 Projects
+<img src="./assets/sec-projects.svg" width="100%" alt="Projects" />
 
 | Project | Description | Stack |
 |---|---|---|
@@ -125,9 +153,9 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 | ✈️ **Flight Management System** | Terminal-based airline reservation system for 10+ flight routes & 200+ passenger records, with booking, cancellation & search; extended with a MySQL backend via JDBC | `C++` · `OOP` · `MySQL` |
 | 🧮 **DSA Practice** | Growing collection of data structures & algorithms implementations, including graph & search algorithms (BFS, DFS, A*, Dijkstra) | `C++` · `DSA` |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="./assets/divider.svg" width="100%">
 
-## 💼 Experience
+<img src="./assets/sec-experience.svg" width="100%" alt="Experience" />
 
 <table>
 <tr>
@@ -158,9 +186,9 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="./assets/divider.svg" width="100%">
 
-## 🎓 Education
+<img src="./assets/sec-education.svg" width="100%" alt="Education" />
 
 <table>
 <tr>
@@ -207,9 +235,9 @@ Coursework:
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="./assets/divider.svg" width="100%">
 
-## 🏅 Certifications
+<img src="./assets/sec-certifications.svg" width="100%" alt="Certifications" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/DELOITTE-86BC25?style=for-the-badge&logo=deloitte&logoColor=white&labelColor=000000" />
@@ -227,37 +255,9 @@ Coursework:
 - **DATACOM** — Software Development Job Simulation
 - **JPMorgan Chase & Co.** — Software Engineering Job Simulation
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="./assets/divider.svg" width="100%">
 
-## 🧾 Profile Snapshot
-
-<table width="100%">
-<tr>
-<th align="center">🎓 Degree</th>
-<th align="center">💼 Internships</th>
-<th align="center">🏅 Certifications</th>
-<th align="center">🚀 Projects</th>
-<th align="center">🔐 Focus</th>
-</tr>
-<tr>
-<td align="center">B.S. CS — 2028</td>
-<td align="center">2 Active/Completed</td>
-<td align="center">6 Earned</td>
-<td align="center">4 Shipped</td>
-<td align="center">AI · Cybersecurity</td>
-</tr>
-</table>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/CODING%20SINCE-2022-39D353?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/CURRENT%20ROLE-Full%20Stack%20Intern-58A6FF?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/LOCATION-Wah%20Cantt%2C%20PK-A371F7?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-F0B72F?style=for-the-badge&labelColor=000000" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 📊 GitHub Stats
+<img src="./assets/sec-stats.svg" width="100%" alt="GitHub Stats" />
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hamzaejaz922&show_icons=true&hide_border=true&bg_color=000000&title_color=58A6FF&icon_color=39D353&text_color=C9D1D9&border_radius=12" height="165" />
@@ -268,27 +268,29 @@ Coursework:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaejaz922&layout=compact&hide_border=true&bg_color=000000&title_color=A371F7&text_color=C9D1D9&border_radius=12" />
 </p>
 
-### 📈 Contribution Graph
+**📈 Contribution Graph**
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaejaz922&hide_border=true&bg_color=000000&color=C9D1D9&line=58A6FF&point=F0883E&area=true&area_color=39D353" width="100%" />
 </p>
 
-### 🐍 Contribution Snake
+**🐍 Contribution Snake**
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/hamzaejaz922/hamzaejaz922/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
-## 🏆 GitHub Trophies
+<img src="./assets/divider.svg" width="100%">
+
+<img src="./assets/sec-trophies.svg" width="100%" alt="GitHub Trophies" />
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=hamzaejaz922&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="./assets/divider.svg" width="100%">
 
-## 🔗 Connect With Me
+<img src="./assets/sec-connect.svg" width="100%" alt="Connect With Me" />
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github,linkedin,gmail" />
@@ -303,7 +305,7 @@ Coursework:
 📧 **Email:** [hamzaejaz3136@gmail.com](mailto:hamzaejaz3136@gmail.com)
 🔗 **LinkedIn:** [linkedin.com/in/hamza922](https://linkedin.com/in/hamza922)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="./assets/divider.svg" width="100%">
 
 <p align="center"><b><span style="color:#A371F7">MQ</span></b></p>
 
