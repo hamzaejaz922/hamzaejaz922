@@ -75,14 +75,14 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 <tr>
 <td align="center">B.S. CS — 2028</td>
 <td align="center">2 Active/Completed</td>
-<td align="center">6 Earned</td>
-<td align="center">4 Shipped</td>
-<td align="center">AI · Cybersecurity</td>
+<td align="center">13+ Earned</td>
+<td align="center">7+ Shipped</td>
+<td align="center">Cybersecurity · Data Analytics · App Dev</td>
 </tr>
 </table>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/CODING%20SINCE-2022-39D353?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/CODING%20SINCE-2024-39D353?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/CURRENT%20ROLE-Full%20Stack%20Intern-58A6FF?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/LOCATION-Wah%20Cantt%2C%20PK-A371F7?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-F0B72F?style=for-the-badge&labelColor=000000" />
