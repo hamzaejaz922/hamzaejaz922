@@ -55,6 +55,7 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 | **Graduating** | July 2028 |
 | **Location** | Wah Cantt, Pakistan |
 | **Focus** | AI App Development 🤖 |
+| | Data Analyst 📊 |
 | | Cybersecurity 🔐 |
 
 </td></tr>
