@@ -1,18 +1,24 @@
-<svg width="480" height="200" viewBox="0 0 480 200" xmlns="http://www.w3.org/2000/svg">
-  <rect width="480" height="200" rx="12" fill="#0a0e17" stroke="#6b46c1" stroke-width="1.4"/>
-  <text x="24" y="38" font-family="Segoe UI, sans-serif" font-size="18" font-weight="700" fill="#F0B72F">Coding Activity</text>
+<svg width="620" height="200" viewBox="0 0 620 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="620" height="200" rx="12" fill="#0a0e17" stroke="#6b46c1" stroke-width="1.4"/>
+  <text x="24" y="38" font-family="Segoe UI, sans-serif" font-size="18" font-weight="700" fill="#F0B72F">GitHub Streak</text>
 
   <g font-family="Segoe UI, sans-serif" text-anchor="middle">
-    <text x="120" y="100" font-size="34" font-weight="700" fill="#39D353">136</text>
+    <text x="120" y="100" font-size="32" font-weight="700" fill="#39D353">136</text>
     <text x="120" y="126" font-size="13" fill="#8b949e">Total Contributions</text>
     <text x="120" y="144" font-size="11" fill="#6b7280">(last year)</text>
 
-    <line x1="240" y1="60" x2="240" y2="150" stroke="#21262d" stroke-width="1"/>
+    <line x1="230" y1="60" x2="230" y2="150" stroke="#21262d" stroke-width="1"/>
 
-    <text x="360" y="100" font-size="34" font-weight="700" fill="#58A6FF">17</text>
-    <text x="360" y="126" font-size="13" fill="#8b949e">Current Streak</text>
-    <text x="360" y="144" font-size="11" fill="#6b7280">(days)</text>
+    <text x="310" y="100" font-size="32" font-weight="700" fill="#58A6FF">17</text>
+    <text x="310" y="126" font-size="13" fill="#8b949e">Current Streak</text>
+    <text x="310" y="144" font-size="11" fill="#6b7280">(days)</text>
+
+    <line x1="400" y1="60" x2="400" y2="150" stroke="#21262d" stroke-width="1"/>
+
+    <text x="490" y="100" font-size="32" font-weight="700" fill="#A371F7">17</text>
+    <text x="490" y="126" font-size="13" fill="#8b949e">Longest Streak</text>
+    <text x="490" y="144" font-size="11" fill="#6b7280">(days)</text>
   </g>
 
-  <text x="240" y="180" font-family="Segoe UI, sans-serif" font-size="11" fill="#6b7280" text-anchor="middle">🔥 On a roll — keep it going!</text>
+  <text x="310" y="180" font-family="Segoe UI, sans-serif" font-size="11" fill="#6b7280" text-anchor="middle">🔥 On a roll — keep it going!</text>
 </svg>
