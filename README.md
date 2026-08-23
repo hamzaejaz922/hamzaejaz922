@@ -279,12 +279,11 @@ Coursework:
 <img src="./sec-stats.svg" width="100%" alt="GitHub Stats" />
 
 <p align="left">
-  <img src="./stats-card.svg" height="200" />
-  <img src="./streak-card.svg" height="200" />
+  <img src="./metrics-stats.svg" />
 </p>
 
 <p align="left">
-  <img src="./top-langs-card.svg" />
+  <img src="./metrics-langs.svg" />
 </p>
 
 <img src="./sec-graph.svg" width="100%" alt="Contribution Graph" />
