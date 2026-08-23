@@ -280,10 +280,13 @@ Coursework:
 
 <p align="left">
   <img src="./metrics-stats.svg" />
+  <img src="./stats-card.svg" height="200" />
+  <img src="./streak-card.svg" height="200" />
 </p>
 
 <p align="left">
   <img src="./metrics-langs.svg" />
+  <img src="./top-langs-card.svg" />
 </p>
 
 <img src="./sec-graph.svg" width="100%" alt="Contribution Graph" />
