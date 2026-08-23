@@ -279,6 +279,7 @@ Coursework:
 <img src="./sec-stats.svg" width="100%" alt="GitHub Stats" />
 
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzaejaz922&show_icons=true&hide_border=true&bg_color=000000&title_color=58A6FF&icon_color=39D353&text_color=C9D1D9&border_radius=12" height="200" />
   <img src="./metrics-stats.svg" />
   <img src="./stats-card.svg" height="200" />
   <img src="./streak-card.svg" height="200" />
