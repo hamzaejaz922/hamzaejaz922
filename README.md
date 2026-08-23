@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=56D4DD&background=0D1117&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+Intern+%40+DecodeLabs;Aspiring+AI+App+Developer;Aspiring+Cybersecurity+Analyst;Becoming+Data+Analyst;Getting+yourself+tired+in+its+peak+command;Turning+Ideas+Into+Working+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=56D4DD&background=0D1117&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+Intern+%40+DecodeLabs;Aspiring+AI+App+Developer;Aspiring+Cybersecurity+Analyst;Getting+yourself+tired+in+its+peak+command;Turning+Ideas+Into+Working+Code" />
 </p>
 
 <p align="center">
@@ -279,12 +279,16 @@ Coursework:
 <img src="./sec-stats.svg" width="100%" alt="GitHub Stats" />
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=hamzaejaz922&show_icons=true&hide_border=true&bg_color=000000&title_color=58A6FF&icon_color=39D353&text_color=C9D1D9&border_radius=12" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=hamzaejaz922&hide_border=true&background=000000&stroke=A371F7&ring=39D353&fire=F0883E&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280&border_radius=12" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzaejaz922&show_icons=true&hide_border=true&bg_color=000000&title_color=58A6FF&icon_color=39D353&text_color=C9D1D9&border_radius=12" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=hamzaejaz922&theme=github-dark-blue&hide_border=true&border_radius=12" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hamzaejaz922&layout=compact&hide_border=true&bg_color=000000&title_color=56D4DD&text_color=C9D1D9&border_radius=12" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaejaz922&layout=compact&hide_border=true&bg_color=000000&title_color=56D4DD&text_color=C9D1D9&border_radius=12" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzaejaz922&show_icons=true&include_all_commits=true&hide_border=false&border_color=6b46c1&bg_color=0a0e17&title_color=58A6FF&icon_color=A371F7&text_color=56D4DD&border_radius=12&custom_title=My%20GitHub%20Statistics" alt="My GitHub Statistics" />
 </p>
 
 <img src="./sec-graph.svg" width="100%" alt="Contribution Graph" />
@@ -322,7 +326,6 @@ Coursework:
 </p>
 
 📧 **Email:** [hamzaejaz3136@gmail.com](mailto:hamzaejaz3136@gmail.com)
-<br>
 🔗 **LinkedIn:** [linkedin.com/in/hamza922](https://linkedin.com/in/hamza922)
 
 <img src="./divider.svg" width="100%">
