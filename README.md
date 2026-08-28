@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./banner.svg" width="100%" alt="Muhammad Hamza banner" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=56D4DD&background=0D1117&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+Intern+%40+DecodeLabs;Aspiring+AI+App+Developer;Aspiring+Cybersecurity+Analyst;Getting+yourself+tired+in+its+peak+command;Turning+Ideas+Into+Working+Code" />
 </p>
