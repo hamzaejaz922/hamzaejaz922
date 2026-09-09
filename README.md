@@ -1,179 +1,342 @@
-<div align="center">
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Muhammad Hamza banner" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=56D4DD&background=0D1117&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+Intern+%40+DecodeLabs;Aspiring+AI+App+Developer;Aspiring+Cybersecurity+Analyst;Getting+yourself+tired+in+its+peak+command;Turning+Ideas+Into+Working+Code" />
+</p>
 
-<img src="banner.svg" width="100%" alt="Muhammad Hamza banner"/>
+<p align="center">
+  <a href="mailto:hamzaejaz3136@gmail.com"><img src="https://img.shields.io/badge/✉️_Gmail-F0B72F?style=flat-square&labelColor=000000" /></a>
+  <a href="https://github.com/hamzaejaz922"><img src="https://img.shields.io/badge/🐙_GitHub-39D353?style=flat-square&labelColor=000000" /></a>
+  <a href="https://linkedin.com/in/hamza922"><img src="https://img.shields.io/badge/💼_LinkedIn-58A6FF?style=flat-square&labelColor=000000" /></a>
+  <img src="https://img.shields.io/badge/📍_Wah-A371F7?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🇵🇰_Pakistan-56D4DD?style=flat-square&labelColor=000000" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamzaejaz922&label=Profile%20Views&color=56D4DD&style=flat-square" alt="Profile views" />
+</p>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:hamzaejaz3136@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/hamzaejaz922)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/hamza922)
-[![Wah](https://img.shields.io/badge/-Wah-000000?style=for-the-badge&logo=googlemaps&logoColor=39FF14)](#)
-[![Pakistan](https://img.shields.io/badge/-Pakistan-000000?style=for-the-badge&logo=flag&logoColor=39FF14)](#)
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=hamzaejaz922&label=Profile%20views&color=39FF14&style=flat" alt="Profile views"/>
+<p align="center">
+  <img src="./boot-sequence.svg" alt="Boot sequence" />
+</p>
 
-<br/>
+<img src="./sec-about.svg" width="100%" alt="About Me" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Booting+Muhammad+Hamza's+profile...;Loading+AI+%26+Cybersecurity+modules...;Full+Stack+Dev+%7C+Data+Analyst;System+ready+%E2%9C%94" alt="Boot sequence"/>
-
-</div>
-
----
-
-<img src="sec-about.svg" width="100%" alt="About Me"/>
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
 I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Campus**, building backend systems and full-stack applications while developing a strong foundation in **AI and Cybersecurity**.
 
-- 💼 Full Stack Development Intern @ **DecodeLabs**
-- 📱 App Development Intern @ **CodeAlpha**
-- 🏆 Certified in **Cybersecurity** (Cisco, Mastercard, Deloitte), **Software Development** (DATACOM), and **GenAI** (BCG X)
-- 🤝 Completed a **Software Engineering job simulation** with **JPMorgan Chase & Co.**
-- 🤖 Aspiring **AI App Developer**
-- 🔐 Aspiring **Cybersecurity Analyst**
-- 🌱 Strong grasp of **OOP, C++, and AI concepts**
-- 📍 Based in **Wah Cantt, Pakistan**
+💼 Full Stack Development Intern @ **DecodeLabs**
+📱 App Development Intern @ **CodeAlpha**
+🏆 Certified in **Cybersecurity** (Cisco, Mastercard, Deloitte), **Software Development** (DATACOM), and **GenAI** (BCG X)
+🤝 Completed a **Software Engineering job simulation** with **JPMorgan Chase & Co.**
+🤖 Aspiring **AI App Developer**
+🔐 Aspiring **Cybersecurity Analyst**
+🧠 Strong grasp of **OOP, C++, and AI concepts**
+📍 Based in **Wah Cantt, Pakistan**
+📫 Reach me at [hamzaejaz3136@gmail.com](mailto:hamzaejaz3136@gmail.com)
+</td>
+<td width="45%" valign="top">
 
 <table>
-<tr><th>Name</th><td>Muhammad Hamza</td></tr>
-<tr><th>Role</th><td>Full Stack Dev Intern</td></tr>
-<tr><th>Degree</th><td>B.S. Computer Science</td></tr>
-<tr><th>University</th><td>COMSATS Islamabad</td></tr>
-<tr><th>Graduating</th><td>July 2028</td></tr>
-<tr><th>Location</th><td>Wah Cantt, Pakistan</td></tr>
-<tr><th>Focus</th><td>🤖 AI App Development</td></tr>
-<tr><th></th><td>📊 Data Analyst</td></tr>
-<tr><th></th><td>🔒 Cybersecurity</td></tr>
+<tr><td>
+
+🟢 🔵 🟣
+
+| | |
+|:--|:--|
+| **Name** | Muhammad Hamza |
+| **Role** | Full Stack Dev Intern |
+| **Degree** | B.S. Computer Science |
+| **University** | COMSATS Islamabad |
+| **Graduating** | July 2028 |
+| **Location** | Wah Cantt, Pakistan |
+| **Focus** | AI App Development 🤖 |
+| | Data Analyst 📊 |
+| | Cybersecurity 🔐 |
+
+</td></tr>
 </table>
 
----
+</td>
+</tr>
+</table>
 
-<img src="sec-experience.svg" width="100%" alt="Experience"/>
+<p align="left">
+  <img src="./learning-badge.svg" alt="Currently learning" />
+</p>
+
+<img src="./divider.svg" width="100%">
+
+<img src="./sec-snapshot.svg" width="100%" alt="Profile Snapshot" />
+
+<table width="100%">
+<tr>
+<th align="center">🎓 Degree</th>
+<th align="center">💼 Internships</th>
+<th align="center">🏅 Certifications</th>
+<th align="center">🚀 Projects</th>
+<th align="center">🔐 Focus</th>
+</tr>
+<tr>
+<td align="center">B.S. CS — 2028</td>
+<td align="center">2 Active/Completed</td>
+<td align="center">13+ Earned</td>
+<td align="center">7+ Shipped</td>
+<td align="center">Cybersecurity · Data Analytics · App Dev</td>
+</tr>
+</table>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CODING%20SINCE-2024-39D353?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/CURRENT%20ROLE-Full%20Stack%20Intern-58A6FF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LOCATION-Wah%20Cantt%2C%20PK-A371F7?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-F0B72F?style=for-the-badge&labelColor=000000" />
+</p>
+
+<img src="./divider.svg" width="100%">
+
+<img src="./sec-techstack.svg" width="100%" alt="Tech Stack" />
+
+<p align="center">
+<marquee behavior="scroll" direction="left" scrollamount="6">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,nodejs,express,mysql,mongodb,git,github,vscode,idea" height="45"/>
+</marquee>
+</p>
+
+**Languages**
+
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="48" height="48"/><br><sub><b>Python</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="48" height="48"/><br><sub><b>Java</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/><br><sub><b>C++</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=c" width="48" height="48"/><br><sub><b>C</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br><sub><b>HTML</b></sub></td>
+</tr>
+</table>
+
+**Frameworks & Backend**
+
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br><sub><b>Node.js</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="48" height="48"/><br><sub><b>Express</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/><br><sub><b>MySQL</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/><br><sub><b>MongoDB</b></sub></td>
+</tr>
+</table>
+
+**Tools**
+
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br><sub><b>Git</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br><sub><b>GitHub</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/><br><sub><b>VS Code</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=idea" width="48" height="48"/><br><sub><b>IntelliJ IDEA</b></sub></td>
+</tr>
+</table>
+
+**CS Concepts & Core Skills**
+<p align="left">
+  <img src="https://img.shields.io/badge/OOP%20%26%20DESIGN%20PATTERNS-A371F7?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/SDLC-58A6FF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/SOFTWARE%20REQUIREMENTS-F0B72F?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-39D353?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/MULTITHREADING-56D4DD?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/SCHEDULING-F0883E?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/DATA%20STRUCTURES%20%26%20ALGORITHMS-39D353?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/BFS%20%26%20DFS-58A6FF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/A*%20%26%20DIJKSTRA-A371F7?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/REST%20APIS-F0B72F?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/PROJECT%20PLANNING-39D353?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/REQUIREMENTS%20ANALYSIS-58A6FF?style=for-the-badge&labelColor=000000" />
+</p>
+
+<img src="./divider.svg" width="100%">
+
+<img src="./sec-projects.svg" width="100%" alt="Projects" />
+
+| Project | Description | Stack |
+|---|---|---|
+| 📋 **Backend User API** | RESTful backend with full CRUD (GET/POST/PUT/DELETE), validation middleware, and proper HTTP status codes — DecodeLabs Internship, Project 2 | Node.js · Express · REST API |
+| 🎨 **Craft Studio Website** | Fully responsive landing page with CSS Grid & Flexbox, vanilla JS, mobile-first design and WCAG-conscious accessibility | HTML5 · CSS3 · JavaScript |
+| ✈️ **Flight Management System** | Terminal-based airline reservation system for 10+ flight routes & 200+ passenger records, with booking, cancellation & search; extended with a MySQL backend via JDBC | C++ · OOP · MySQL |
+| 🧮 **DSA Practice** | Growing collection of data structures & algorithms implementations, including graph & search algorithms (BFS, DFS, A*, Dijkstra) | C++ · DSA |
+
+<img src="./divider.svg" width="100%">
+
+<img src="./sec-experience.svg" width="100%" alt="Experience" />
+
+<table>
+<tr>
+<td width="8%" align="center" valign="top">🏢</td>
+<td width="92%">
 
 **Full Stack Development Intern** — DecodeLabs
+*Jul 2026 – Present · Remote*
+
+Building backend <img src="https://img.shields.io/badge/REST%20APIs-A371F7?style=flat-square&labelColor=000000" height="18"/> following industry-standard architecture & <img src="https://img.shields.io/badge/Validation-39D353?style=flat-square&labelColor=000000" height="18"/> practices
+Working through a structured full-stack training kit — <img src="https://img.shields.io/badge/Frontend-F0B72F?style=flat-square&labelColor=000000" height="18"/> <img src="https://img.shields.io/badge/Backend-58A6FF?style=flat-square&labelColor=000000" height="18"/> <img src="https://img.shields.io/badge/Integration-56D4DD?style=flat-square&labelColor=000000" height="18"/> milestones
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="8%" align="center" valign="top">📱</td>
+<td width="92%">
+
 **App Development Intern** — CodeAlpha
+*Jul 2026 · Remote*
 
----
+Contributed to <img src="https://img.shields.io/badge/Mobile%2FApp%20Development-F0883E?style=flat-square&labelColor=000000" height="18"/> tasks during a short-term internship
+</td>
+</tr>
+</table>
 
-<img src="sec-education.svg" width="100%" alt="Education"/>
+<img src="./divider.svg" width="100%">
 
-**BS Computer Science** — COMSATS University Islamabad, Wah Campus · *Aug 2024 – July 2028*
-`Coursework:` `OOP` `Data Structures & Algorithms` `Database Systems` `Artificial Intelligence` `Information Security`
-- 🚀 Member, Student Startup Business Society (SSBS)
+<img src="./sec-education.svg" width="100%" alt="Education" />
 
-**Intermediate, Pre-Engineering** — FG Degree College · *2023 – 2024*
+<table>
+<tr>
+<td width="8%" align="center" valign="top">🎓</td>
+<td width="92%">
 
-**Matriculation, Science** — Sir Syed College Campus 2 · *2021 – 2022*
+**BS Computer Science** — COMSATS University Islamabad, Wah Campus
+*Aug 2024 – July 2028*
 
----
+Coursework:
+<img src="https://img.shields.io/badge/OOP-39D353?style=flat-square&labelColor=000000" height="18"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-58A6FF?style=flat-square&labelColor=000000" height="18"/>
+<img src="https://img.shields.io/badge/Database%20Systems-A371F7?style=flat-square&labelColor=000000" height="18"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-F0B72F?style=flat-square&labelColor=000000" height="18"/>
+<img src="https://img.shields.io/badge/Information%20Security-56D4DD?style=flat-square&labelColor=000000" height="18"/>
 
-<img src="sec-techstack.svg" width="100%" alt="Tech Stack"/>
+🚀 **Member**, Student Startup Business Society (SSBS)
+</td>
+</tr>
+</table>
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=py,java,cpp,c,html,css,js,nodejs,express,mysql,mongodb,git,github,vscode,idea&theme=dark" alt="tech stack"/>
-</div>
+<table>
+<tr>
+<td width="8%" align="center" valign="top">🏫</td>
+<td width="92%">
 
----
+**Intermediate, Pre-Engineering** — FG Degree College
+*2023 – 2024*
 
-## 📊 GitHub Stats
+</td>
+</tr>
+</table>
 
-<div align="center">
+<table>
+<tr>
+<td width="8%" align="center" valign="top">🏫</td>
+<td width="92%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hamzaejaz922&show_icons=true&hide_border=true&bg_color=0A0E14&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaejaz922&hide_border=true&background=0A0E14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" height="180"/>
+**Matriculation, Science** — Sir Syed College Campus 2
+*2021 – 2022*
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaejaz922&layout=compact&hide_border=true&bg_color=0A0E14&title_color=39FF14&text_color=c9d1d9" alt="Top Languages"/>
+</td>
+</tr>
+</table>
 
-</div>
+<img src="./divider.svg" width="100%">
 
----
+<img src="./sec-certifications.svg" width="100%" alt="Certifications" />
 
-## 📈 Contribution Graph
+<p align="left">
+  <img src="https://img.shields.io/badge/DELOITTE-86BC25?style=for-the-badge&logo=deloitte&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/MASTERCARD-EB001B?style=for-the-badge&logo=mastercard&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/BCG%20X%20GENAI-58A6FF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/DATACOM-F0B72F?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/JPMORGAN%20CHASE-000000?style=for-the-badge&logo=jpmorganchase&logoColor=white&labelColor=000000" />
+</p>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaejaz922&theme=react-dark&bg_color=0A0E14&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</div>
+**Deloitte** — Technology Job Simulation
+**Cisco Networking Academy** — Introduction to Cybersecurity
+**Mastercard** — Cybersecurity Job Simulation
+**BCG X** — GenAI Job Simulation
+**DATACOM** — Software Development Job Simulation
+**JPMorgan Chase & Co.** — Software Engineering Job Simulation
+<img src="./divider.svg" width="100%">
 
----
+<img src="./sec-stats.svg" width="100%" alt="GitHub Stats" />
 
-## 🐍 Contribution Snake
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzaejaz922&show_icons=true&hide_border=true&bg_color=000000&title_color=58A6FF&icon_color=39D353&text_color=C9D1D9&border_radius=12" height="200" />
+  <img src="./metrics-stats.svg" />
+  <img src="./stats-card.svg" height="200" />
+  <img src="https://streak-stats.demolab.com/?user=hamzaejaz922&theme=github-dark-blue&hide_border=true&border_radius=12" height="200" />
+  <img src="./streak-card.svg" height="200" />
+</p>
 
-<div align="center">
+<p align="left">
+  <img src="./metrics-langs.svg" />
+  <img src="./top-langs-card.svg" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzaejaz922/hamzaejaz922/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamzaejaz922/hamzaejaz922/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hamzaejaz922/hamzaejaz922/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+<img src="./sec-graph.svg" width="100%" alt="Contribution Graph" />
 
-</div>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaejaz922&hide_border=true&bg_color=000000&color=C9D1D9&line=58A6FF&point=F0883E&area=true&area_color=39D353" width="100%" />
+</p>
 
-> Snake image is generated on push by a scheduled GitHub Action (workflow below) — the SVG file only appears once the action has run at least once.
+<img src="./sec-snake.svg" width="100%" alt="Contribution Snake" />
 
-<details>
-<summary>⚙️ Snake workflow — click to expand (save as <code>.github/workflows/snake.yml</code>)</summary>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/hamzaejaz922/hamzaejaz922/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
 
-```yaml
-name: Generate Snake Animation
+<img src="./divider.svg" width="100%">
 
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs once a day
-  workflow_dispatch: {}
-  push:
-    branches:
-      - main
+<img src="./sec-trophies.svg" width="100%" alt="GitHub Trophies" />
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: hamzaejaz922
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2339FF14
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=hamzaejaz922&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
 
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+<img src="./divider.svg" width="100%">
 
-**Setup:** GitHub repo mein `.github/workflows/snake.yml` naam se ye file banayein, commit karein, phir Actions tab se manually "Run workflow" chala dein. Uske baad upar wali snake image live show hone lagegi.
+<img src="./sec-connect.svg" width="100%" alt="Connect With Me" />
 
-</details>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,linkedin,gmail" />
+</p>
 
----
+<p align="left">
+  <a href="https://github.com/hamzaejaz922"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39D353" /></a>
+  <a href="https://linkedin.com/in/hamza922"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
+  <a href="mailto:hamzaejaz3136@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=F0883E" /></a>
+</p>
 
-## 🏆 GitHub Trophies
+📧 **Email:** [hamzaejaz3136@gmail.com](mailto:hamzaejaz3136@gmail.com)
+🔗 **LinkedIn:** [linkedin.com/in/hamza922](https://linkedin.com/in/hamza922)
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hamzaejaz922&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10&title-color=39FF14&icon-color=39FF14&text-color=c9d1d9&bg-color=0A0E14" alt="trophies"/>
-</div>
+<img src="./divider.svg" width="100%">
 
----
+<p align="center">
+  <img src="./terminal-cursor.svg" alt="terminal sign-off" />
+</p>
 
-## 📫 Connect
+<p align="center"><b><span style="color:
+#A371F7">MQ</span></b></p>
 
-[![GITHUB](https://img.shields.io/badge/GITHUB-39FF14?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/hamzaejaz922)
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-39FF14?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/hamza922)
-[![EMAIL](https://img.shields.io/badge/EMAIL-39FF14?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:hamzaejaz3136@gmail.com)
+<h2 align="center">"Getting your self tired in its peak command"</h2>
 
-📷 Email: hamzaejaz3136@gmail.com &nbsp;·&nbsp; 🔗 LinkedIn: linkedin.com/in/hamza922
+<p align="center">
+  <i>Consistency, discipline, and hands-on experience — that's how I grow as a person, and how I'm building my career as an aspiring AI app developer and cybersecurity enthusiast.</i>
+</p>
 
-```
-hamza@github :~$ echo "thanks for visiting my profile"
-```
-
-**"Getting yourself tired in its peak command"**
-
-*Consistency, discipline, and hands-on experience — that's how I grow as a person, and how I'm building my career as an aspiring AI app developer and cybersecurity enthusiast.*
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:000000&height=100&section=footer" />
+</p>
