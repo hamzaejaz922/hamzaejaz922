@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:061a10,100:0d3b24&height=180&section=header&text=MUHAMMAD%20HAMZA&fontSize=48&fontColor=39FF14&fontAlignY=40&desc=Full%20Stack%20Dev%20Intern%20%7C%20Aspiring%20AI%20App%20Developer&descAlignY=65&descSize=18&descColor=8CFFB0&animation=fadeIn" width="100%" alt="Muhammad Hamza banner"/>
+<img src="banner.svg" width="100%" alt="Muhammad Hamza banner"/>
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 👤 About Me
+<img src="sec-about.svg" width="100%" alt="About Me"/>
 
 I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Campus**, building backend systems and full-stack applications while developing a strong foundation in **AI and Cybersecurity**.
 
@@ -47,14 +47,14 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 
 ---
 
-## 💼 Experience
+<img src="sec-experience.svg" width="100%" alt="Experience"/>
 
 **Full Stack Development Intern** — DecodeLabs
 **App Development Intern** — CodeAlpha
 
 ---
 
-## 🎓 Education
+<img src="sec-education.svg" width="100%" alt="Education"/>
 
 **BS Computer Science** — COMSATS University Islamabad, Wah Campus · *Aug 2024 – July 2028*
 `Coursework:` `OOP` `Data Structures & Algorithms` `Database Systems` `Artificial Intelligence` `Information Security`
@@ -66,7 +66,7 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 
 ---
 
-## 🛠️ Tech Stack
+<img src="sec-techstack.svg" width="100%" alt="Tech Stack"/>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,java,cpp,c,html,css,js,nodejs,express,mysql,mongodb,git,github,vscode,idea&theme=dark" alt="tech stack"/>
