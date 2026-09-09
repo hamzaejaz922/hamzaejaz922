@@ -1,8 +1,7 @@
+<h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
+
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Muhammad Hamza banner" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=56D4DD&background=0D1117&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+Intern+%40+DecodeLabs;Aspiring+AI+App+Developer;Aspiring+Cybersecurity+Analyst;Getting+yourself+tired+in+its+peak+command;Turning+Ideas+Into+Working+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=56D4DD&background=0D1117&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+Intern+%40+DecodeLabs;Aspiring+AI+App+Developer;Aspiring+Cybersecurity+Analyst;Turning+Ideas+Into+Working+Code" />
 </p>
 
 <p align="center">
@@ -17,17 +16,11 @@
   <img src="https://komarev.com/ghpvc/?username=hamzaejaz922&label=Profile%20Views&color=56D4DD&style=flat-square" alt="Profile views" />
 </p>
 
-<br>
-
 <p align="center">
-  <img src="./boot-sequence.svg" alt="Boot sequence" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:000000&height=100&section=header" />
 </p>
 
-<img src="./sec-about.svg" width="100%" alt="About Me" />
-
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+## 📖 About Me
 
 I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Campus**, building backend systems and full-stack applications while developing a strong foundation in **AI and Cybersecurity**.
 
@@ -41,14 +34,6 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 - 📍 Based in **Wah Cantt, Pakistan**
 - 📫 Reach me at [hamzaejaz3136@gmail.com](mailto:hamzaejaz3136@gmail.com)
 
-</td>
-<td width="45%" valign="top">
-
-<table>
-<tr><td>
-
-🟢 🔵 🟣
-
 | | |
 |:--|:--|
 | **Name** | Muhammad Hamza |
@@ -57,24 +42,11 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 | **University** | COMSATS Islamabad |
 | **Graduating** | July 2028 |
 | **Location** | Wah Cantt, Pakistan |
-| **Focus** | AI App Development 🤖 |
-| | Data Analyst 📊 |
-| | Cybersecurity 🔐 |
+| **Focus** | AI App Development 🤖 · Data Analyst 📊 · Cybersecurity 🔐 |
 
-</td></tr>
-</table>
+---
 
-</td>
-</tr>
-</table>
-
-<p align="left">
-  <img src="./learning-badge.svg" alt="Currently learning" />
-</p>
-
-<img src="./divider.svg" width="100%">
-
-<img src="./sec-snapshot.svg" width="100%" alt="Profile Snapshot" />
+## 📊 Profile Snapshot
 
 <table width="100%">
 <tr>
@@ -100,162 +72,68 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
   <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-F0B72F?style=for-the-badge&labelColor=000000" />
 </p>
 
-<img src="./divider.svg" width="100%">
+---
 
-<img src="./sec-techstack.svg" width="100%" alt="Tech Stack" />
+## 🛠️ Tech Stack
 
 <p align="center">
-<marquee behavior="scroll" direction="left" scrollamount="6">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,nodejs,express,mysql,mongodb,git,github,vscode,idea" height="45"/>
-</marquee>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,nodejs,express,mysql,mongodb,git,github,vscode,idea" height="45"/>
 </p>
 
-**Languages**
-
-<table>
-<tr>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="48" height="48"/><br><sub><b>Python</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="48" height="48"/><br><sub><b>Java</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/><br><sub><b>C++</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=c" width="48" height="48"/><br><sub><b>C</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br><sub><b>HTML</b></sub></td>
-</tr>
-</table>
-
-**Frameworks & Backend**
-
-<table>
-<tr>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br><sub><b>Node.js</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="48" height="48"/><br><sub><b>Express</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/><br><sub><b>MySQL</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/><br><sub><b>MongoDB</b></sub></td>
-</tr>
-</table>
-
-**Tools**
-
-<table>
-<tr>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br><sub><b>Git</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br><sub><b>GitHub</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/><br><sub><b>VS Code</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=idea" width="48" height="48"/><br><sub><b>IntelliJ IDEA</b></sub></td>
-</tr>
-</table>
+**Languages:** Python, Java, C++, C, HTML/CSS
+**Frameworks & Backend:** Node.js, Express, MySQL, MongoDB
+**Tools:** Git, GitHub, VS Code, IntelliJ IDEA
 
 **CS Concepts & Core Skills**
 <p align="left">
   <img src="https://img.shields.io/badge/OOP%20%26%20DESIGN%20PATTERNS-A371F7?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/SDLC-58A6FF?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/SOFTWARE%20REQUIREMENTS-F0B72F?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-39D353?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/MULTITHREADING-56D4DD?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/SCHEDULING-F0883E?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/DATA%20STRUCTURES%20%26%20ALGORITHMS-39D353?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/BFS%20%26%20DFS-58A6FF?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/A*%20%26%20DIJKSTRA-A371F7?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/REST%20APIS-F0B72F?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/PROJECT%20PLANNING-39D353?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/REQUIREMENTS%20ANALYSIS-58A6FF?style=for-the-badge&labelColor=000000" />
 </p>
 
-<img src="./divider.svg" width="100%">
+---
 
-<img src="./sec-projects.svg" width="100%" alt="Projects" />
+## 🚀 Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| 📋 **Backend User API** | RESTful backend with full CRUD (GET/POST/PUT/DELETE), validation middleware, and proper HTTP status codes — DecodeLabs Internship, Project 2 | `Node.js` · `Express` · `REST API` |
+| 📋 **Backend User API** | RESTful backend with full CRUD, validation middleware, proper HTTP status codes — DecodeLabs Internship, Project 2 | `Node.js` · `Express` · `REST API` |
 | 🎨 **Craft Studio Website** | Fully responsive landing page with CSS Grid & Flexbox, vanilla JS, mobile-first design and WCAG-conscious accessibility | `HTML5` · `CSS3` · `JavaScript` |
-| ✈️ **Flight Management System** | Terminal-based airline reservation system for 10+ flight routes & 200+ passenger records, with booking, cancellation & search; extended with a MySQL backend via JDBC | `C++` · `OOP` · `MySQL` |
-| 🧮 **DSA Practice** | Growing collection of data structures & algorithms implementations, including graph & search algorithms (BFS, DFS, A*, Dijkstra) | `C++` · `DSA` |
+| ✈️ **Flight Management System** | Terminal-based airline reservation system for 10+ flight routes & 200+ passenger records, extended with MySQL via JDBC | `C++` · `OOP` · `MySQL` |
+| 🧮 **DSA Practice** | Growing collection of DSA implementations, including graph & search algorithms (BFS, DFS, A*, Dijkstra) | `C++` · `DSA` |
 
-<img src="./divider.svg" width="100%">
+---
 
-<img src="./sec-experience.svg" width="100%" alt="Experience" />
-
-<table>
-<tr>
-<td width="8%" align="center" valign="top">🏢</td>
-<td width="92%">
+## 💼 Experience
 
 **Full Stack Development Intern** — DecodeLabs
 *Jul 2026 – Present · Remote*
-
-- Building backend <img src="https://img.shields.io/badge/REST%20APIs-A371F7?style=flat-square&labelColor=000000" height="18"/> following industry-standard architecture & <img src="https://img.shields.io/badge/Validation-39D353?style=flat-square&labelColor=000000" height="18"/> practices
-- Working through a structured full-stack training kit — <img src="https://img.shields.io/badge/Frontend-F0B72F?style=flat-square&labelColor=000000" height="18"/> <img src="https://img.shields.io/badge/Backend-58A6FF?style=flat-square&labelColor=000000" height="18"/> <img src="https://img.shields.io/badge/Integration-56D4DD?style=flat-square&labelColor=000000" height="18"/> milestones
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="8%" align="center" valign="top">📱</td>
-<td width="92%">
+- Building backend REST APIs following industry-standard architecture & validation practices
+- Working through a structured full-stack training kit — Frontend, Backend, Integration milestones
 
 **App Development Intern** — CodeAlpha
 *Jul 2026 · Remote*
+- Contributed to mobile/app development tasks during a short-term internship
 
-- Contributed to <img src="https://img.shields.io/badge/Mobile%2FApp%20Development-F0883E?style=flat-square&labelColor=000000" height="18"/> tasks during a short-term internship
+---
 
-</td>
-</tr>
-</table>
-
-<img src="./divider.svg" width="100%">
-
-<img src="./sec-education.svg" width="100%" alt="Education" />
-
-<table>
-<tr>
-<td width="8%" align="center" valign="top">🎓</td>
-<td width="92%">
+## 🎓 Education
 
 **BS Computer Science** — COMSATS University Islamabad, Wah Campus
 *Aug 2024 – July 2028*
+Coursework: OOP · Data Structures & Algorithms · Database Systems · Artificial Intelligence · Information Security
+- 🚀 Member, Student Startup Business Society (SSBS)
 
-Coursework:
-<img src="https://img.shields.io/badge/OOP-39D353?style=flat-square&labelColor=000000" height="18"/>
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-58A6FF?style=flat-square&labelColor=000000" height="18"/>
-<img src="https://img.shields.io/badge/Database%20Systems-A371F7?style=flat-square&labelColor=000000" height="18"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-F0B72F?style=flat-square&labelColor=000000" height="18"/>
-<img src="https://img.shields.io/badge/Information%20Security-56D4DD?style=flat-square&labelColor=000000" height="18"/>
+**Intermediate, Pre-Engineering** — FG Degree College · *2023 – 2024*
 
-- 🚀 **Member**, Student Startup Business Society (SSBS)
+**Matriculation, Science** — Sir Syed College Campus 2 · *2021 – 2022*
 
-</td>
-</tr>
-</table>
+---
 
-<table>
-<tr>
-<td width="8%" align="center" valign="top">🏫</td>
-<td width="92%">
-
-**Intermediate, Pre-Engineering** — FG Degree College
-*2023 – 2024*
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="8%" align="center" valign="top">🏫</td>
-<td width="92%">
-
-**Matriculation, Science** — Sir Syed College Campus 2
-*2021 – 2022*
-
-</td>
-</tr>
-</table>
-
-<img src="./divider.svg" width="100%">
-
-<img src="./sec-certifications.svg" width="100%" alt="Certifications" />
+## 🏅 Certifications
 
 <p align="left">
   <img src="https://img.shields.io/badge/DELOITTE-86BC25?style=for-the-badge&logo=deloitte&logoColor=white&labelColor=000000" />
@@ -273,46 +151,32 @@ Coursework:
 - **DATACOM** — Software Development Job Simulation
 - **JPMorgan Chase & Co.** — Software Engineering Job Simulation
 
-<img src="./divider.svg" width="100%">
+---
 
-<img src="./sec-stats.svg" width="100%" alt="GitHub Stats" />
+## 📈 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hamzaejaz922&show_icons=true&hide_border=true&bg_color=000000&title_color=58A6FF&icon_color=39D353&text_color=C9D1D9&border_radius=12" height="200" />
-  <img src="./metrics-stats.svg" />
-  <img src="./stats-card.svg" height="200" />
   <img src="https://streak-stats.demolab.com/?user=hamzaejaz922&theme=github-dark-blue&hide_border=true&border_radius=12" height="200" />
-  <img src="./streak-card.svg" height="200" />
 </p>
 
 <p align="left">
-  <img src="./metrics-langs.svg" />
-  <img src="./top-langs-card.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaejaz922&layout=compact&hide_border=true&bg_color=000000&title_color=56D4DD&text_color=C9D1D9&border_radius=12" />
 </p>
-
-<img src="./sec-graph.svg" width="100%" alt="Contribution Graph" />
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaejaz922&hide_border=true&bg_color=000000&color=C9D1D9&line=58A6FF&point=F0883E&area=true&area_color=39D353" width="100%" />
 </p>
 
-<img src="./sec-snake.svg" width="100%" alt="Contribution Snake" />
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/hamzaejaz922/hamzaejaz922/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
-<img src="./divider.svg" width="100%">
-
-<img src="./sec-trophies.svg" width="100%" alt="GitHub Trophies" />
+## 🏆 GitHub Trophies
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=hamzaejaz922&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
-<img src="./divider.svg" width="100%">
+---
 
-<img src="./sec-connect.svg" width="100%" alt="Connect With Me" />
+## 🤝 Connect With Me
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github,linkedin,gmail" />
@@ -327,15 +191,9 @@ Coursework:
 📧 **Email:** [hamzaejaz3136@gmail.com](mailto:hamzaejaz3136@gmail.com)
 🔗 **LinkedIn:** [linkedin.com/in/hamza922](https://linkedin.com/in/hamza922)
 
-<img src="./divider.svg" width="100%">
-
-<p align="center">
-  <img src="./terminal-cursor.svg" alt="terminal sign-off" />
-</p>
-
 <p align="center"><b><span style="color:#A371F7">MQ</span></b></p>
 
-<h2 align="center">"Getting your self tired in its peak command"</h2>
+<h2 align="center">"Getting yourself tired in its peak command"</h2>
 
 <p align="center">
   <i>Consistency, discipline, and hands-on experience — that's how I grow as a person, and how I'm building my career as an aspiring AI app developer and cybersecurity enthusiast.</i>
