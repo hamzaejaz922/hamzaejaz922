@@ -31,15 +31,16 @@
 
 I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Campus**, building backend systems and full-stack applications while developing a strong foundation in **AI and Cybersecurity**.
 
-💼 Full Stack Development Intern @ **DecodeLabs**
-📱 App Development Intern @ **CodeAlpha**
-🏆 Certified in **Cybersecurity** (Cisco, Mastercard, Deloitte), **Software Development** (DATACOM), and **GenAI** (BCG X)
-🤝 Completed a **Software Engineering job simulation** with **JPMorgan Chase & Co.**
-🤖 Aspiring **AI App Developer**
-🔐 Aspiring **Cybersecurity Analyst**
-🧠 Strong grasp of **OOP, C++, and AI concepts**
-📍 Based in **Wah Cantt, Pakistan**
-📫 Reach me at [hamzaejaz3136@gmail.com](mailto:hamzaejaz3136@gmail.com)
+- 💼 Full Stack Development Intern @ **DecodeLabs**
+- 📱 App Development Intern @ **CodeAlpha**
+- 🏆 Certified in **Cybersecurity** (Cisco, Mastercard, Deloitte), **Software Development** (DATACOM), and **GenAI** (BCG X)
+- 🤝 Completed a **Software Engineering job simulation** with **JPMorgan Chase & Co.**
+- 🤖 Aspiring **AI App Developer**
+- 🔐 Aspiring **Cybersecurity Analyst**
+- 🧠 Strong grasp of **OOP, C++, and AI concepts**
+- 📍 Based in **Wah Cantt, Pakistan**
+- 📫 Reach me at [hamzaejaz3136@gmail.com](mailto:hamzaejaz3136@gmail.com)
+
 </td>
 <td width="45%" valign="top">
 
@@ -165,10 +166,10 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 
 | Project | Description | Stack |
 |---|---|---|
-| 📋 **Backend User API** | RESTful backend with full CRUD (GET/POST/PUT/DELETE), validation middleware, and proper HTTP status codes — DecodeLabs Internship, Project 2 | Node.js · Express · REST API |
-| 🎨 **Craft Studio Website** | Fully responsive landing page with CSS Grid & Flexbox, vanilla JS, mobile-first design and WCAG-conscious accessibility | HTML5 · CSS3 · JavaScript |
-| ✈️ **Flight Management System** | Terminal-based airline reservation system for 10+ flight routes & 200+ passenger records, with booking, cancellation & search; extended with a MySQL backend via JDBC | C++ · OOP · MySQL |
-| 🧮 **DSA Practice** | Growing collection of data structures & algorithms implementations, including graph & search algorithms (BFS, DFS, A*, Dijkstra) | C++ · DSA |
+| 📋 **Backend User API** | RESTful backend with full CRUD (GET/POST/PUT/DELETE), validation middleware, and proper HTTP status codes — DecodeLabs Internship, Project 2 | `Node.js` · `Express` · `REST API` |
+| 🎨 **Craft Studio Website** | Fully responsive landing page with CSS Grid & Flexbox, vanilla JS, mobile-first design and WCAG-conscious accessibility | `HTML5` · `CSS3` · `JavaScript` |
+| ✈️ **Flight Management System** | Terminal-based airline reservation system for 10+ flight routes & 200+ passenger records, with booking, cancellation & search; extended with a MySQL backend via JDBC | `C++` · `OOP` · `MySQL` |
+| 🧮 **DSA Practice** | Growing collection of data structures & algorithms implementations, including graph & search algorithms (BFS, DFS, A*, Dijkstra) | `C++` · `DSA` |
 
 <img src="./divider.svg" width="100%">
 
@@ -182,8 +183,9 @@ I'm a Computer Science undergraduate at **COMSATS University Islamabad, Wah Camp
 **Full Stack Development Intern** — DecodeLabs
 *Jul 2026 – Present · Remote*
 
-Building backend <img src="https://img.shields.io/badge/REST%20APIs-A371F7?style=flat-square&labelColor=000000" height="18"/> following industry-standard architecture & <img src="https://img.shields.io/badge/Validation-39D353?style=flat-square&labelColor=000000" height="18"/> practices
-Working through a structured full-stack training kit — <img src="https://img.shields.io/badge/Frontend-F0B72F?style=flat-square&labelColor=000000" height="18"/> <img src="https://img.shields.io/badge/Backend-58A6FF?style=flat-square&labelColor=000000" height="18"/> <img src="https://img.shields.io/badge/Integration-56D4DD?style=flat-square&labelColor=000000" height="18"/> milestones
+- Building backend <img src="https://img.shields.io/badge/REST%20APIs-A371F7?style=flat-square&labelColor=000000" height="18"/> following industry-standard architecture & <img src="https://img.shields.io/badge/Validation-39D353?style=flat-square&labelColor=000000" height="18"/> practices
+- Working through a structured full-stack training kit — <img src="https://img.shields.io/badge/Frontend-F0B72F?style=flat-square&labelColor=000000" height="18"/> <img src="https://img.shields.io/badge/Backend-58A6FF?style=flat-square&labelColor=000000" height="18"/> <img src="https://img.shields.io/badge/Integration-56D4DD?style=flat-square&labelColor=000000" height="18"/> milestones
+
 </td>
 </tr>
 </table>
@@ -196,7 +198,8 @@ Working through a structured full-stack training kit — <img src="https://img.s
 **App Development Intern** — CodeAlpha
 *Jul 2026 · Remote*
 
-Contributed to <img src="https://img.shields.io/badge/Mobile%2FApp%20Development-F0883E?style=flat-square&labelColor=000000" height="18"/> tasks during a short-term internship
+- Contributed to <img src="https://img.shields.io/badge/Mobile%2FApp%20Development-F0883E?style=flat-square&labelColor=000000" height="18"/> tasks during a short-term internship
+
 </td>
 </tr>
 </table>
@@ -220,7 +223,8 @@ Coursework:
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-F0B72F?style=flat-square&labelColor=000000" height="18"/>
 <img src="https://img.shields.io/badge/Information%20Security-56D4DD?style=flat-square&labelColor=000000" height="18"/>
 
-🚀 **Member**, Student Startup Business Society (SSBS)
+- 🚀 **Member**, Student Startup Business Society (SSBS)
+
 </td>
 </tr>
 </table>
@@ -262,12 +266,13 @@ Coursework:
   <img src="https://img.shields.io/badge/JPMORGAN%20CHASE-000000?style=for-the-badge&logo=jpmorganchase&logoColor=white&labelColor=000000" />
 </p>
 
-**Deloitte** — Technology Job Simulation
-**Cisco Networking Academy** — Introduction to Cybersecurity
-**Mastercard** — Cybersecurity Job Simulation
-**BCG X** — GenAI Job Simulation
-**DATACOM** — Software Development Job Simulation
-**JPMorgan Chase & Co.** — Software Engineering Job Simulation
+- **Deloitte** — Technology Job Simulation
+- **Cisco Networking Academy** — Introduction to Cybersecurity
+- **Mastercard** — Cybersecurity Job Simulation
+- **BCG X** — GenAI Job Simulation
+- **DATACOM** — Software Development Job Simulation
+- **JPMorgan Chase & Co.** — Software Engineering Job Simulation
+
 <img src="./divider.svg" width="100%">
 
 <img src="./sec-stats.svg" width="100%" alt="GitHub Stats" />
@@ -328,8 +333,7 @@ Coursework:
   <img src="./terminal-cursor.svg" alt="terminal sign-off" />
 </p>
 
-<p align="center"><b><span style="color:
-#A371F7">MQ</span></b></p>
+<p align="center"><b><span style="color:#A371F7">MQ</span></b></p>
 
 <h2 align="center">"Getting your self tired in its peak command"</h2>
 
